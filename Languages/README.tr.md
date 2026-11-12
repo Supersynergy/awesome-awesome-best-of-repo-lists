@@ -27,9 +27,9 @@
 
 ## En iyi depo listelerini keşfedin
 
-15 kategoride 945 açık kaynak listesi ve kaynağı.
+15 kategoride 967 açık kaynak listesi ve kaynağı.
 
-> 945 bağlantının tamamı dahildir. Özgün adlar ve etiketler korunur; ayrıntılı açıklamalar İngilizce ve Almanca kataloglardadır.
+> 967 bağlantının tamamı dahildir. Özgün adlar ve etiketler korunur; ayrıntılı açıklamalar İngilizce ve Almanca kataloglardadır.
 
 **Depo bağlantısını kopyala:**
 
@@ -41,8 +41,8 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 
 ## Kategoriler
 
-- [Genel listeler](#c-meta-meta) · 228
-- [Yapay zekâ · LLM · MCP · Ajanlar](#c-ai-llm-mcp) · 267
+- [Genel listeler](#c-meta-meta) · 231
+- [Yapay zekâ · LLM · MCP · Ajanlar](#c-ai-llm-mcp) · 286
 - [Diller ve ekosistemler](#c-languages) · 157
 - [Güvenlik · Gizlilik](#c-security-privacy) · 68
 - [Veri · API · Scraping](#c-data-domains) · 62
@@ -60,7 +60,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ---
 
 <a id="c-meta-meta"></a>
-## 🧭 Genel listeler <sub>(228)</sub>
+## 🧭 Genel listeler <sub>(231)</sub>
 
 **⭐ Öne çıkan kaynaklar**
 
@@ -123,7 +123,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>📂 208 kaynak daha göster</strong></summary>
+<summary><strong>📂 211 kaynak daha göster</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -704,10 +704,19 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[GitHub awesome topic](https://github.com/topics/awesome)**<br>
   `github` `awesome` `discovery`
 
+- **[latentcat/latentbox](https://github.com/latentcat/latentbox)**<br>
+  `discovery` `index`
+
+- **[bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs)**<br>
+  `discovery` `index`
+
+- **[ZhiningLiu1998/awesome-machine-learning-resources](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources)**<br>
+  `discovery` `index`
+
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 🤖 Yapay zekâ · LLM · MCP · Ajanlar <sub>(267)</sub>
+## 🤖 Yapay zekâ · LLM · MCP · Ajanlar <sub>(286)</sub>
 
 **⭐ Öne çıkan kaynaklar**
 
@@ -772,7 +781,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>📂 247 kaynak daha göster</strong></summary>
+<summary><strong>📂 266 kaynak daha göster</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1495,6 +1504,63 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 
 - **[pisterlabs/promptset](https://github.com/pisterlabs/promptset)**<br>
   `prompts` `evaluation`
+
+- **[microsoft/skills](https://github.com/microsoft/skills)**<br>
+  `skills` `agents`
+
+- **[trailofbits/skills](https://github.com/trailofbits/skills)**<br>
+  `skills` `agents`
+
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br>
+  `skills` `agents`
+
+- **[vercel-labs/skills](https://github.com/vercel-labs/skills)**<br>
+  `skills` `agents`
+
+- **[wshobson/agents](https://github.com/wshobson/agents)**<br>
+  `skills` `agents`
+
+- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)**<br>
+  `skills` `agents`
+
+- **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)**<br>
+  `skills` `agents`
+
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)**<br>
+  `skills` `agents`
+
+- **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)**<br>
+  `skills` `agents`
+
+- **[hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)**<br>
+  `skills` `agents`
+
+- **[25 agent skills to improve your workflow in GitHub Copilot](https://www.youtube.com/watch?v=9yPyoxlyc5Q)**<br>
+  `video` `youtube`
+
+- **[Introducing Agent Skills in VS Code](https://www.youtube.com/watch?v=JepVi1tBNEE)**<br>
+  `video` `youtube`
+
+- **[The complete guide to Agent Skills](https://www.youtube.com/watch?v=fabAI1OKKww)**<br>
+  `video` `youtube`
+
+- **[google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list)**<br>
+  `prompts` `research`
+
+- **[rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)**<br>
+  `prompts` `research`
+
+- **[microsoft/prompty](https://github.com/microsoft/prompty)**<br>
+  `prompts` `research`
+
+- **[Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts)**<br>
+  `prompts` `research`
+
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)**<br>
+  `prompts` `research`
+
+- **[Context Engineering vs. Prompt Engineering](https://www.youtube.com/watch?v=vD0E3EUb8-8)**<br>
+  `video` `youtube`
 
 </details>
 

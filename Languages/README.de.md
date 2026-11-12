@@ -36,14 +36,14 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 **🧰 Daten & Werkzeuge:** [JSONL-Katalog](../data/sources.jsonl) · [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) · [Anleitung für Agenten](../CATALOG.md)
 
 <p align="center">
-  <b>945 Katalogeinträge zu Awesome-Listen, Best-of-Rankings und Meta-Indizes aus dem Open-Source-Ökosystem.</b>
+  <b>967 Katalogeinträge zu Awesome-Listen, Best-of-Rankings und Meta-Indizes aus dem Open-Source-Ökosystem.</b>
 </p>
 
 
 Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosystem: von `sindresorhus/awesome` über `awesome-selfhosted` bis zu spezialisierten Listen für AI/LLM, Security, Rust oder Remote-Work.
 
 
-**✨ So nutzen:** Kategorie wählen, bis zu 20 Ressourcen direkt ansehen und bei Bedarf weitere aufklappen. Für die Suche in allen 945 URLs öffne [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) und nutze die Suchfunktion deines Browsers. Sterne, Lizenzen und Aktivitätsdaten sind Momentaufnahmen aus der GitHub API.
+**✨ So nutzen:** Kategorie wählen, bis zu 20 Ressourcen direkt ansehen und bei Bedarf weitere aufklappen. Für die Suche in allen 967 URLs öffne [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) und nutze die Suchfunktion deines Browsers. Sterne, Lizenzen und Aktivitätsdaten sind Momentaufnahmen aus der GitHub API.
 
 
 <details>
@@ -71,7 +71,7 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
 
 | Kategorie | Kategorie |
 | --- | --- |
-| [Meta-Listen & Querschnitt](#c-meta-meta) · 228 | [AI · LLM · MCP · Agenten](#c-ai-llm-mcp) · 267 |
+| [Meta-Listen & Querschnitt](#c-meta-meta) · 231 | [AI · LLM · MCP · Agenten](#c-ai-llm-mcp) · 286 |
 | [Sprachen & Ökosysteme](#c-languages) · 157 | [Security · Privacy](#c-security-privacy) · 68 |
 | [Daten · APIs · Scraping](#c-data-domains) · 62 | [DevOps · Cloud · Infrastruktur](#c-devops) · 35 |
 | [Selfhosted · Docker · Homelab](#c-selfhosted) · 20 | [Business · SaaS](#c-business-saas) · 24 |
@@ -83,7 +83,7 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
 ---
 
 <a id="c-meta-meta"></a>
-## 🧭 1. Meta-Listen & Querschnitt <sub>(228)</sub>
+## 🧭 1. Meta-Listen & Querschnitt <sub>(231)</sub>
 
 *Listen von Listen, beste Übersichten und Such-Indizes — der Einstieg in jede Domain.*
 
@@ -161,7 +161,7 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
   TensorFlow - A curated list of dedicated resources https://tensorflow.org
 
 <details>
-<summary><strong>📂 208 weitere Ressourcen anzeigen</strong></summary>
+<summary><strong>📂 211 weitere Ressourcen anzeigen</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   17.3k★ `MIT` aktiv 2026-02 · `vite` `vitejs` — ⚡️ A curated list of awesome things related to Vite.js
@@ -899,10 +899,19 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
 - **[GitHub awesome topic](https://github.com/topics/awesome)**<br>
   `github` `awesome` `discovery` — Explore GitHub repositories tagged awesome.
 
+- **[latentcat/latentbox](https://github.com/latentcat/latentbox)**<br>
+  `discovery` `index` — Sammlung von Awesome-Listen für KI, Kreativität und Kunst.
+
+- **[bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs)**<br>
+  `discovery` `index` — Index von Awesome-Listen rund um Node.js.
+
+- **[ZhiningLiu1998/awesome-machine-learning-resources](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources)**<br>
+  `discovery` `index` — Index von Ressourcenlisten zum maschinellen Lernen.
+
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 🤖 2. AI · LLM · MCP · Agenten <sub>(267)</sub>
+## 🤖 2. AI · LLM · MCP · Agenten <sub>(286)</sub>
 
 *LLM-Tools, MCP-Server, Agent-Frameworks, RAG, GenAI-Stacks und Coding-Assistenten-Ökosysteme.*
 
@@ -983,7 +992,7 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
   A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 
 <details>
-<summary><strong>📂 247 weitere Ressourcen anzeigen</strong></summary>
+<summary><strong>📂 266 weitere Ressourcen anzeigen</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   19.2k★ `CC0-1.0` aktiv 2026-10 · `deep-learning` `language` `machine-learning`<br>
@@ -1882,6 +1891,63 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
 
 - **[pisterlabs/promptset](https://github.com/pisterlabs/promptset)**<br>
   `prompts` `evaluation` — Forschungsdatensatz mit Entwickler-Prompts.
+
+- **[microsoft/skills](https://github.com/microsoft/skills)**<br>
+  `skills` `agents` — Skills, MCP-Server und Agentenanweisungen von Microsoft.
+
+- **[trailofbits/skills](https://github.com/trailofbits/skills)**<br>
+  `skills` `agents` — Skills von Trail of Bits für Sicherheitsanalyse und Tests.
+
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br>
+  `skills` `agents` — Offizieller Anthropic-Plugin-Marktplatz für Claude Code.
+
+- **[vercel-labs/skills](https://github.com/vercel-labs/skills)**<br>
+  `skills` `agents` — Kommandozeilenwerkzeug für das offene Agent-Skills-Ökosystem.
+
+- **[wshobson/agents](https://github.com/wshobson/agents)**<br>
+  `skills` `agents` — Plugins, Agenten und Skills für Coding-Werkzeuge.
+
+- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)**<br>
+  `skills` `agents` — Agenten-Skills für Marketing-Workflows.
+
+- **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)**<br>
+  `skills` `agents` — Sammlung von Skills, Agenten und Plugins.
+
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)**<br>
+  `skills` `agents` — Design-Skill für Coding-Agenten.
+
+- **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)**<br>
+  `skills` `agents` — Sicherheitsscanner für KI-Agenten-Skills.
+
+- **[hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)**<br>
+  `skills` `agents` — Verzeichnis von Codex-Plugins, Skills und Ressourcen.
+
+- **[25 agent skills to improve your workflow in GitHub Copilot](https://www.youtube.com/watch?v=9yPyoxlyc5Q)**<br>
+  `video` `youtube` — GitHub Copilot Day: Matt Pocock stellt Agenten-Skills vor.
+
+- **[Introducing Agent Skills in VS Code](https://www.youtube.com/watch?v=JepVi1tBNEE)**<br>
+  `video` `youtube` — Einführung des Visual-Studio-Code-Teams in Agent Skills.
+
+- **[The complete guide to Agent Skills](https://www.youtube.com/watch?v=fabAI1OKKww)**<br>
+  `video` `youtube` — Burke Holland erklärt Agent Skills.
+
+- **[google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list)**<br>
+  `prompts` `research` — Prompt-Sammlung für den Coding-Agenten Jules.
+
+- **[rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)**<br>
+  `prompts` `research` — Durchsuchbare Bibliothek für KI-Prompts.
+
+- **[microsoft/prompty](https://github.com/microsoft/prompty)**<br>
+  `prompts` `research` — Werkzeuge zum Erstellen, Verwalten, Debuggen und Evaluieren von LLM-Prompts.
+
+- **[Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts)**<br>
+  `prompts` `research` — Prompt- und API-Beispiele für GPT Image 2.
+
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)**<br>
+  `prompts` `research` — Bildprompt-Beispiele und wiederverwendbare Vorlagen.
+
+- **[Context Engineering vs. Prompt Engineering](https://www.youtube.com/watch?v=vD0E3EUb8-8)**<br>
+  `video` `youtube` — IBM Technology erklärt Prompt- und Context Engineering.
 
 </details>
 

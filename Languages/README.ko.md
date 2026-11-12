@@ -27,9 +27,9 @@
 
 ## 최고의 저장소 목록 둘러보기
 
-15개 카테고리의 오픈 소스 목록과 자료 945개.
+15개 카테고리의 오픈 소스 목록과 자료 967개.
 
-> 945개 링크가 모두 포함되어 있습니다. 이름과 태그는 원문을 유지하며, 자세한 설명은 영어 및 독일어 카탈로그에 있습니다.
+> 967개 링크가 모두 포함되어 있습니다. 이름과 태그는 원문을 유지하며, 자세한 설명은 영어 및 독일어 카탈로그에 있습니다.
 
 **저장소 링크 복사:**
 
@@ -41,8 +41,8 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 
 ## 카테고리
 
-- [종합 목록](#c-meta-meta) · 228
-- [AI · LLM · MCP · 에이전트](#c-ai-llm-mcp) · 267
+- [종합 목록](#c-meta-meta) · 231
+- [AI · LLM · MCP · 에이전트](#c-ai-llm-mcp) · 286
 - [언어와 생태계](#c-languages) · 157
 - [보안 · 개인정보 보호](#c-security-privacy) · 68
 - [데이터 · API · 스크래핑](#c-data-domains) · 62
@@ -60,7 +60,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ---
 
 <a id="c-meta-meta"></a>
-## 🧭 종합 목록 <sub>(228)</sub>
+## 🧭 종합 목록 <sub>(231)</sub>
 
 **⭐ 추천 자료**
 
@@ -123,7 +123,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>📂 나머지 208개 보기</strong></summary>
+<summary><strong>📂 나머지 211개 보기</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -704,10 +704,19 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[GitHub awesome topic](https://github.com/topics/awesome)**<br>
   `github` `awesome` `discovery`
 
+- **[latentcat/latentbox](https://github.com/latentcat/latentbox)**<br>
+  `discovery` `index`
+
+- **[bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs)**<br>
+  `discovery` `index`
+
+- **[ZhiningLiu1998/awesome-machine-learning-resources](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources)**<br>
+  `discovery` `index`
+
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 🤖 AI · LLM · MCP · 에이전트 <sub>(267)</sub>
+## 🤖 AI · LLM · MCP · 에이전트 <sub>(286)</sub>
 
 **⭐ 추천 자료**
 
@@ -772,7 +781,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>📂 나머지 247개 보기</strong></summary>
+<summary><strong>📂 나머지 266개 보기</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1495,6 +1504,63 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 
 - **[pisterlabs/promptset](https://github.com/pisterlabs/promptset)**<br>
   `prompts` `evaluation`
+
+- **[microsoft/skills](https://github.com/microsoft/skills)**<br>
+  `skills` `agents`
+
+- **[trailofbits/skills](https://github.com/trailofbits/skills)**<br>
+  `skills` `agents`
+
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br>
+  `skills` `agents`
+
+- **[vercel-labs/skills](https://github.com/vercel-labs/skills)**<br>
+  `skills` `agents`
+
+- **[wshobson/agents](https://github.com/wshobson/agents)**<br>
+  `skills` `agents`
+
+- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)**<br>
+  `skills` `agents`
+
+- **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)**<br>
+  `skills` `agents`
+
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)**<br>
+  `skills` `agents`
+
+- **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)**<br>
+  `skills` `agents`
+
+- **[hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)**<br>
+  `skills` `agents`
+
+- **[25 agent skills to improve your workflow in GitHub Copilot](https://www.youtube.com/watch?v=9yPyoxlyc5Q)**<br>
+  `video` `youtube`
+
+- **[Introducing Agent Skills in VS Code](https://www.youtube.com/watch?v=JepVi1tBNEE)**<br>
+  `video` `youtube`
+
+- **[The complete guide to Agent Skills](https://www.youtube.com/watch?v=fabAI1OKKww)**<br>
+  `video` `youtube`
+
+- **[google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list)**<br>
+  `prompts` `research`
+
+- **[rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)**<br>
+  `prompts` `research`
+
+- **[microsoft/prompty](https://github.com/microsoft/prompty)**<br>
+  `prompts` `research`
+
+- **[Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts)**<br>
+  `prompts` `research`
+
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)**<br>
+  `prompts` `research`
+
+- **[Context Engineering vs. Prompt Engineering](https://www.youtube.com/watch?v=vD0E3EUb8-8)**<br>
+  `video` `youtube`
 
 </details>
 

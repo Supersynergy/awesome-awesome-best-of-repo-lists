@@ -36,14 +36,14 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 **🧰 Data & tools:** [JSONL catalog](data/sources.jsonl) · [All URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) · [Agent guide](CATALOG.md)
 
 <p align="center">
-  <b>945 catalog entries covering awesome lists, best-of rankings, and indexes across the open-source ecosystem.</b>
+  <b>967 catalog entries covering awesome lists, best-of rankings, and indexes across the open-source ecosystem.</b>
 </p>
 
 
 A collection of open-source resource lists, from `sindresorhus/awesome` and `awesome-selfhosted` to specialized lists for AI, security, Rust, and remote work.
 
 
-**✨ How to use:** Choose a category, browse up to 20 featured resources, and expand the rest when available. To search all 945 URLs, open [All URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) and use your browser’s find function. Star counts, licenses, and activity dates are snapshots from the GitHub API.
+**✨ How to use:** Choose a category, browse up to 20 featured resources, and expand the rest when available. To search all 967 URLs, open [All URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) and use your browser’s find function. Star counts, licenses, and activity dates are snapshots from the GitHub API.
 
 
 <details>
@@ -71,7 +71,7 @@ See the [agent guide](CATALOG.md) for the data fields and snapshot caveats.
 
 | Category | Category |
 | --- | --- |
-| [Meta Lists & General Resources](#c-meta-meta) · 228 | [AI · LLM · MCP · Agents](#c-ai-llm-mcp) · 267 |
+| [Meta Lists & General Resources](#c-meta-meta) · 231 | [AI · LLM · MCP · Agents](#c-ai-llm-mcp) · 286 |
 | [Languages & Ecosystems](#c-languages) · 157 | [Security · Privacy](#c-security-privacy) · 68 |
 | [Data · APIs · Scraping](#c-data-domains) · 62 | [DevOps · Cloud · Infrastructure](#c-devops) · 35 |
 | [Selfhosted · Docker · Homelab](#c-selfhosted) · 20 | [Business · SaaS](#c-business-saas) · 24 |
@@ -83,7 +83,7 @@ See the [agent guide](CATALOG.md) for the data fields and snapshot caveats.
 ---
 
 <a id="c-meta-meta"></a>
-## 🧭 1. Meta Lists & General Resources <sub>(228)</sub>
+## 🧭 1. Meta Lists & General Resources <sub>(231)</sub>
 
 *Lists of lists, overviews, and indexes across domains.*
 
@@ -161,7 +161,7 @@ See the [agent guide](CATALOG.md) for the data fields and snapshot caveats.
   TensorFlow - A curated list of dedicated resources https://tensorflow.org
 
 <details>
-<summary><strong>📂 Show 208 more resources</strong></summary>
+<summary><strong>📂 Show 211 more resources</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   17.3k★ `MIT` active 2026-02 · `vite` `vitejs` — ⚡️ A curated list of awesome things related to Vite.js
@@ -899,10 +899,19 @@ See the [agent guide](CATALOG.md) for the data fields and snapshot caveats.
 - **[GitHub awesome topic](https://github.com/topics/awesome)**<br>
   `github` `awesome` `discovery` — Explore GitHub repositories tagged awesome.
 
+- **[latentcat/latentbox](https://github.com/latentcat/latentbox)**<br>
+  `discovery` `index` — Collection of awesome lists for AI, creativity and art.
+
+- **[bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs)**<br>
+  `discovery` `index` — Index of awesome Node.js lists.
+
+- **[ZhiningLiu1998/awesome-machine-learning-resources](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources)**<br>
+  `discovery` `index` — Index of machine-learning resource lists.
+
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 🤖 2. AI · LLM · MCP · Agents <sub>(267)</sub>
+## 🤖 2. AI · LLM · MCP · Agents <sub>(286)</sub>
 
 *LLM tools, MCP servers, agent frameworks, RAG, generative AI stacks, and coding assistants.*
 
@@ -983,7 +992,7 @@ See the [agent guide](CATALOG.md) for the data fields and snapshot caveats.
   A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 
 <details>
-<summary><strong>📂 Show 247 more resources</strong></summary>
+<summary><strong>📂 Show 266 more resources</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   19.2k★ `CC0-1.0` active 2026-10 · `deep-learning` `language` `machine-learning`<br>
@@ -1882,6 +1891,63 @@ See the [agent guide](CATALOG.md) for the data fields and snapshot caveats.
 
 - **[pisterlabs/promptset](https://github.com/pisterlabs/promptset)**<br>
   `prompts` `evaluation` — Research dataset of developer prompts.
+
+- **[microsoft/skills](https://github.com/microsoft/skills)**<br>
+  `skills` `agents` — Microsoft skills, MCP servers and agent instructions.
+
+- **[trailofbits/skills](https://github.com/trailofbits/skills)**<br>
+  `skills` `agents` — Trail of Bits skills for security analysis and testing.
+
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)**<br>
+  `skills` `agents` — Anthropic official plugin marketplace for Claude Code.
+
+- **[vercel-labs/skills](https://github.com/vercel-labs/skills)**<br>
+  `skills` `agents` — Command-line tool for the open agent skills ecosystem.
+
+- **[wshobson/agents](https://github.com/wshobson/agents)**<br>
+  `skills` `agents` — Plugins, agents and skills for coding tools.
+
+- **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)**<br>
+  `skills` `agents` — Agent skills for marketing workflows.
+
+- **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)**<br>
+  `skills` `agents` — Collection of skills, agents and plugins.
+
+- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)**<br>
+  `skills` `agents` — Design skill for coding agents.
+
+- **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)**<br>
+  `skills` `agents` — Security scanner for AI agent skills.
+
+- **[hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)**<br>
+  `skills` `agents` — Directory of Codex plugins, skills and resources.
+
+- **[25 agent skills to improve your workflow in GitHub Copilot](https://www.youtube.com/watch?v=9yPyoxlyc5Q)**<br>
+  `video` `youtube` — Matt Pocock presents agent skills at GitHub Copilot Day.
+
+- **[Introducing Agent Skills in VS Code](https://www.youtube.com/watch?v=JepVi1tBNEE)**<br>
+  `video` `youtube` — Visual Studio Code introduction to agent skills.
+
+- **[The complete guide to Agent Skills](https://www.youtube.com/watch?v=fabAI1OKKww)**<br>
+  `video` `youtube` — Burke Holland explains agent skills.
+
+- **[google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list)**<br>
+  `prompts` `research` — Prompt collection for the Jules coding agent.
+
+- **[rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)**<br>
+  `prompts` `research` — Searchable AI prompt library.
+
+- **[microsoft/prompty](https://github.com/microsoft/prompty)**<br>
+  `prompts` `research` — Tools to create, manage, debug and evaluate LLM prompts.
+
+- **[Evolink-AI/awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts)**<br>
+  `prompts` `research` — GPT Image 2 prompt and API examples.
+
+- **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)**<br>
+  `prompts` `research` — Image prompt examples and reusable templates.
+
+- **[Context Engineering vs. Prompt Engineering](https://www.youtube.com/watch?v=vD0E3EUb8-8)**<br>
+  `video` `youtube` — IBM Technology explains prompt and context engineering.
 
 </details>
 
