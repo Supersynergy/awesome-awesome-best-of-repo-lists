@@ -1821,67 +1821,67 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
   `prompts` `guide` `llm` — Curated resources and tools for GPT prompt engineering.
 
 - **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)**<br>
-  `skills` `agents` — Engineering skills for AI coding agents.
+  `skills` `agents` — Entwicklungs-Skills für KI-Coding-Agenten.
 
 - **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)**<br>
-  `skills` `agents` — Agent skills for context engineering and multi-agent systems.
+  `skills` `agents` — Skills für Context Engineering und Multi-Agenten-Systeme.
 
 - **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)**<br>
-  `skills` `agents` — Skills for scientific research workflows.
+  `skills` `agents` — Skills für wissenschaftliche Arbeitsabläufe.
 
 - **[supabase/agent-skills](https://github.com/supabase/agent-skills)**<br>
-  `skills` `agents` — Skills for Supabase development.
+  `skills` `agents` — Skills für die Entwicklung mit Supabase.
 
 - **[twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills)**<br>
-  `skills` `agents` — Skills for Swift and Apple platform development.
+  `skills` `agents` — Skills für Swift und Apple-Plattformen.
 
 - **[apify/agent-skills](https://github.com/apify/agent-skills)**<br>
-  `skills` `agents` — Apify agent skills.
+  `skills` `agents` — Agenten-Skills von Apify.
 
 - **[WordPress/agent-skills](https://github.com/WordPress/agent-skills)**<br>
-  `skills` `agents` — WordPress development skills.
+  `skills` `agents` — Skills für WordPress-Entwicklung.
 
 - **[callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)**<br>
-  `skills` `agents` — React Native development skills.
+  `skills` `agents` — Skills für React-Native-Entwicklung.
 
 - **[Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)**<br>
-  `skills` `agents` — Kotlin development skills.
+  `skills` `agents` — Skills für Kotlin-Entwicklung.
 
 - **[thirtysix/awesome-agent-skills](https://github.com/thirtysix/awesome-agent-skills)**<br>
-  `skills` `agents` — Security-focused skill catalog and offline scan results.
+  `skills` `agents` — Sicherheitsorientierter Skill-Katalog mit Offline-Scanergebnissen.
 
 - **[0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary)**<br>
-  `prompts` `libraries` — Collection of prompts, system prompts and instructions.
+  `prompts` `libraries` — Sammlung von Prompts, Systemprompts und LLM-Anweisungen.
 
 - **[harish-garg/gemini-cli-prompt-library](https://github.com/harish-garg/gemini-cli-prompt-library)**<br>
-  `prompts` `libraries` — Prompt templates for development tasks in Gemini CLI.
+  `prompts` `libraries` — Prompt-Vorlagen für Entwicklungsaufgaben mit Gemini CLI.
 
 - **[Awesome-llms-labs/awesome-prompt-engineering](https://github.com/Awesome-llms-labs/awesome-prompt-engineering)**<br>
-  `prompts` `guides` — Guide to prompting techniques, evaluation and optimization.
+  `prompts` `guides` — Leitfaden zu Prompting-Techniken, Evaluation und Optimierung.
 
 - **[brandonhimpfen/awesome-prompt-engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering)**<br>
-  `prompts` `guides` — Resources, papers and tools for prompt engineering.
+  `prompts` `guides` — Ressourcen, Fachartikel und Werkzeuge für Prompt Engineering.
 
 - **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)**<br>
-  `prompts` `guides` — Introductory generative AI lessons.
+  `prompts` `guides` — Einführende Lektionen zu generativer KI.
 
 - **[GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)**<br>
-  `prompts` `cookbooks` — Samples and notebooks for Gemini on Google Cloud.
+  `prompts` `cookbooks` — Beispiele und Notebooks für Gemini auf Google Cloud.
 
 - **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)**<br>
-  `prompts` `evaluation` — Prompt, agent and retrieval evaluation and red teaming.
+  `prompts` `evaluation` — Tests und Red-Teaming für Prompts, Agenten und Retrieval.
 
 - **[langfuse/langfuse](https://github.com/langfuse/langfuse)**<br>
-  `prompts` `evaluation` — Observability, evaluation and prompt management.
+  `prompts` `evaluation` — Beobachtbarkeit, Evaluation und Prompt-Verwaltung.
 
 - **[openai/evals](https://github.com/openai/evals)**<br>
-  `prompts` `evaluation` — Framework and benchmark registry for language model evaluation.
+  `prompts` `evaluation` — Framework und Benchmark-Verzeichnis zur Evaluation von Sprachmodellen.
 
 - **[microsoft/promptflow](https://github.com/microsoft/promptflow)**<br>
-  `prompts` `evaluation` — Tools for developing and evaluating LLM applications.
+  `prompts` `evaluation` — Werkzeuge für Entwicklung und Evaluation von LLM-Anwendungen.
 
 - **[pisterlabs/promptset](https://github.com/pisterlabs/promptset)**<br>
-  `prompts` `evaluation` — Research dataset of developer prompts.
+  `prompts` `evaluation` — Forschungsdatensatz mit Entwickler-Prompts.
 
 </details>
 
