@@ -27,9 +27,9 @@
 
 ## 探索精选代码仓库列表
 
-涵盖 15 个类别、924 个开源列表和资源。
+涵盖 15 个类别、945 个开源列表和资源。
 
-> 已收录全部 924 个链接。名称和标签保留原文；详细说明见英语和德语目录。
+> 已收录全部 945 个链接。名称和标签保留原文；详细说明见英语和德语目录。
 
 **复制仓库链接:**
 
@@ -42,7 +42,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ## 分类
 
 - [综合列表](#c-meta-meta) · 228
-- [人工智能 · LLM · MCP · 智能体](#c-ai-llm-mcp) · 246
+- [人工智能 · LLM · MCP · 智能体](#c-ai-llm-mcp) · 267
 - [语言与生态系统](#c-languages) · 157
 - [安全 · 隐私](#c-security-privacy) · 68
 - [数据 · API · 抓取](#c-data-domains) · 62
@@ -707,7 +707,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 🤖 人工智能 · LLM · MCP · 智能体 <sub>(246)</sub>
+## 🤖 人工智能 · LLM · MCP · 智能体 <sub>(267)</sub>
 
 **⭐ 精选资源**
 
@@ -772,7 +772,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>📂 显示另外 226 项资源</strong></summary>
+<summary><strong>📂 显示另外 247 项资源</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1432,6 +1432,69 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 
 - **[snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)**<br>
   `prompts` `guide` `llm`
+
+- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)**<br>
+  `skills` `agents`
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)**<br>
+  `skills` `agents`
+
+- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)**<br>
+  `skills` `agents`
+
+- **[supabase/agent-skills](https://github.com/supabase/agent-skills)**<br>
+  `skills` `agents`
+
+- **[twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills)**<br>
+  `skills` `agents`
+
+- **[apify/agent-skills](https://github.com/apify/agent-skills)**<br>
+  `skills` `agents`
+
+- **[WordPress/agent-skills](https://github.com/WordPress/agent-skills)**<br>
+  `skills` `agents`
+
+- **[callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)**<br>
+  `skills` `agents`
+
+- **[Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)**<br>
+  `skills` `agents`
+
+- **[thirtysix/awesome-agent-skills](https://github.com/thirtysix/awesome-agent-skills)**<br>
+  `skills` `agents`
+
+- **[0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary)**<br>
+  `prompts` `libraries`
+
+- **[harish-garg/gemini-cli-prompt-library](https://github.com/harish-garg/gemini-cli-prompt-library)**<br>
+  `prompts` `libraries`
+
+- **[Awesome-llms-labs/awesome-prompt-engineering](https://github.com/Awesome-llms-labs/awesome-prompt-engineering)**<br>
+  `prompts` `guides`
+
+- **[brandonhimpfen/awesome-prompt-engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering)**<br>
+  `prompts` `guides`
+
+- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)**<br>
+  `prompts` `guides`
+
+- **[GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)**<br>
+  `prompts` `cookbooks`
+
+- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)**<br>
+  `prompts` `evaluation`
+
+- **[langfuse/langfuse](https://github.com/langfuse/langfuse)**<br>
+  `prompts` `evaluation`
+
+- **[openai/evals](https://github.com/openai/evals)**<br>
+  `prompts` `evaluation`
+
+- **[microsoft/promptflow](https://github.com/microsoft/promptflow)**<br>
+  `prompts` `evaluation`
+
+- **[pisterlabs/promptset](https://github.com/pisterlabs/promptset)**<br>
+  `prompts` `evaluation`
 
 </details>
 

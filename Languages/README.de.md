@@ -36,14 +36,14 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 **🧰 Daten & Werkzeuge:** [JSONL-Katalog](../data/sources.jsonl) · [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) · [Anleitung für Agenten](../CATALOG.md)
 
 <p align="center">
-  <b>924 Katalogeinträge zu Awesome-Listen, Best-of-Rankings und Meta-Indizes aus dem Open-Source-Ökosystem.</b>
+  <b>945 Katalogeinträge zu Awesome-Listen, Best-of-Rankings und Meta-Indizes aus dem Open-Source-Ökosystem.</b>
 </p>
 
 
 Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosystem: von `sindresorhus/awesome` über `awesome-selfhosted` bis zu spezialisierten Listen für AI/LLM, Security, Rust oder Remote-Work.
 
 
-**✨ So nutzen:** Kategorie wählen, bis zu 20 Ressourcen direkt ansehen und bei Bedarf weitere aufklappen. Für die Suche in allen 924 URLs öffne [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) und nutze die Suchfunktion deines Browsers. Sterne, Lizenzen und Aktivitätsdaten sind Momentaufnahmen aus der GitHub API.
+**✨ So nutzen:** Kategorie wählen, bis zu 20 Ressourcen direkt ansehen und bei Bedarf weitere aufklappen. Für die Suche in allen 945 URLs öffne [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) und nutze die Suchfunktion deines Browsers. Sterne, Lizenzen und Aktivitätsdaten sind Momentaufnahmen aus der GitHub API.
 
 
 <details>
@@ -71,7 +71,7 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
 
 | Kategorie | Kategorie |
 | --- | --- |
-| [Meta-Listen & Querschnitt](#c-meta-meta) · 228 | [AI · LLM · MCP · Agenten](#c-ai-llm-mcp) · 246 |
+| [Meta-Listen & Querschnitt](#c-meta-meta) · 228 | [AI · LLM · MCP · Agenten](#c-ai-llm-mcp) · 267 |
 | [Sprachen & Ökosysteme](#c-languages) · 157 | [Security · Privacy](#c-security-privacy) · 68 |
 | [Daten · APIs · Scraping](#c-data-domains) · 62 | [DevOps · Cloud · Infrastruktur](#c-devops) · 35 |
 | [Selfhosted · Docker · Homelab](#c-selfhosted) · 20 | [Business · SaaS](#c-business-saas) · 24 |
@@ -902,7 +902,7 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 🤖 2. AI · LLM · MCP · Agenten <sub>(246)</sub>
+## 🤖 2. AI · LLM · MCP · Agenten <sub>(267)</sub>
 
 *LLM-Tools, MCP-Server, Agent-Frameworks, RAG, GenAI-Stacks und Coding-Assistenten-Ökosysteme.*
 
@@ -983,7 +983,7 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
   A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 
 <details>
-<summary><strong>📂 226 weitere Ressourcen anzeigen</strong></summary>
+<summary><strong>📂 247 weitere Ressourcen anzeigen</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   19.2k★ `CC0-1.0` aktiv 2026-10 · `deep-learning` `language` `machine-learning`<br>
@@ -1819,6 +1819,69 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
 
 - **[snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)**<br>
   `prompts` `guide` `llm` — Curated resources and tools for GPT prompt engineering.
+
+- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)**<br>
+  `skills` `agents` — Engineering skills for AI coding agents.
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)**<br>
+  `skills` `agents` — Agent skills for context engineering and multi-agent systems.
+
+- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)**<br>
+  `skills` `agents` — Skills for scientific research workflows.
+
+- **[supabase/agent-skills](https://github.com/supabase/agent-skills)**<br>
+  `skills` `agents` — Skills for Supabase development.
+
+- **[twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills)**<br>
+  `skills` `agents` — Skills for Swift and Apple platform development.
+
+- **[apify/agent-skills](https://github.com/apify/agent-skills)**<br>
+  `skills` `agents` — Apify agent skills.
+
+- **[WordPress/agent-skills](https://github.com/WordPress/agent-skills)**<br>
+  `skills` `agents` — WordPress development skills.
+
+- **[callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)**<br>
+  `skills` `agents` — React Native development skills.
+
+- **[Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)**<br>
+  `skills` `agents` — Kotlin development skills.
+
+- **[thirtysix/awesome-agent-skills](https://github.com/thirtysix/awesome-agent-skills)**<br>
+  `skills` `agents` — Security-focused skill catalog and offline scan results.
+
+- **[0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary)**<br>
+  `prompts` `libraries` — Collection of prompts, system prompts and instructions.
+
+- **[harish-garg/gemini-cli-prompt-library](https://github.com/harish-garg/gemini-cli-prompt-library)**<br>
+  `prompts` `libraries` — Prompt templates for development tasks in Gemini CLI.
+
+- **[Awesome-llms-labs/awesome-prompt-engineering](https://github.com/Awesome-llms-labs/awesome-prompt-engineering)**<br>
+  `prompts` `guides` — Guide to prompting techniques, evaluation and optimization.
+
+- **[brandonhimpfen/awesome-prompt-engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering)**<br>
+  `prompts` `guides` — Resources, papers and tools for prompt engineering.
+
+- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)**<br>
+  `prompts` `guides` — Introductory generative AI lessons.
+
+- **[GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)**<br>
+  `prompts` `cookbooks` — Samples and notebooks for Gemini on Google Cloud.
+
+- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)**<br>
+  `prompts` `evaluation` — Prompt, agent and retrieval evaluation and red teaming.
+
+- **[langfuse/langfuse](https://github.com/langfuse/langfuse)**<br>
+  `prompts` `evaluation` — Observability, evaluation and prompt management.
+
+- **[openai/evals](https://github.com/openai/evals)**<br>
+  `prompts` `evaluation` — Framework and benchmark registry for language model evaluation.
+
+- **[microsoft/promptflow](https://github.com/microsoft/promptflow)**<br>
+  `prompts` `evaluation` — Tools for developing and evaluating LLM applications.
+
+- **[pisterlabs/promptset](https://github.com/pisterlabs/promptset)**<br>
+  `prompts` `evaluation` — Research dataset of developer prompts.
 
 </details>
 

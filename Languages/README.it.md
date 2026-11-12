@@ -27,9 +27,9 @@
 
 ## Esplora le migliori liste di repository
 
-924 liste e risorse open source in 15 categorie.
+945 liste e risorse open source in 15 categorie.
 
-> Sono inclusi tutti i 924 link. I nomi e i tag originali sono mantenuti; le descrizioni dettagliate sono nei cataloghi inglese e tedesco.
+> Sono inclusi tutti i 945 link. I nomi e i tag originali sono mantenuti; le descrizioni dettagliate sono nei cataloghi inglese e tedesco.
 
 **Copia il link del repository:**
 
@@ -42,7 +42,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ## Categorie
 
 - [Liste generali](#c-meta-meta) · 228
-- [IA · LLM · MCP · Agenti](#c-ai-llm-mcp) · 246
+- [IA · LLM · MCP · Agenti](#c-ai-llm-mcp) · 267
 - [Linguaggi ed ecosistemi](#c-languages) · 157
 - [Sicurezza · Privacy](#c-security-privacy) · 68
 - [Dati · API · Scraping](#c-data-domains) · 62
@@ -707,7 +707,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 🤖 IA · LLM · MCP · Agenti <sub>(246)</sub>
+## 🤖 IA · LLM · MCP · Agenti <sub>(267)</sub>
 
 **⭐ Risorse in evidenza**
 
@@ -772,7 +772,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>📂 Mostra altre 226 risorse</strong></summary>
+<summary><strong>📂 Mostra altre 247 risorse</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1432,6 +1432,69 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 
 - **[snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)**<br>
   `prompts` `guide` `llm`
+
+- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)**<br>
+  `skills` `agents`
+
+- **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)**<br>
+  `skills` `agents`
+
+- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)**<br>
+  `skills` `agents`
+
+- **[supabase/agent-skills](https://github.com/supabase/agent-skills)**<br>
+  `skills` `agents`
+
+- **[twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills)**<br>
+  `skills` `agents`
+
+- **[apify/agent-skills](https://github.com/apify/agent-skills)**<br>
+  `skills` `agents`
+
+- **[WordPress/agent-skills](https://github.com/WordPress/agent-skills)**<br>
+  `skills` `agents`
+
+- **[callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)**<br>
+  `skills` `agents`
+
+- **[Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)**<br>
+  `skills` `agents`
+
+- **[thirtysix/awesome-agent-skills](https://github.com/thirtysix/awesome-agent-skills)**<br>
+  `skills` `agents`
+
+- **[0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary)**<br>
+  `prompts` `libraries`
+
+- **[harish-garg/gemini-cli-prompt-library](https://github.com/harish-garg/gemini-cli-prompt-library)**<br>
+  `prompts` `libraries`
+
+- **[Awesome-llms-labs/awesome-prompt-engineering](https://github.com/Awesome-llms-labs/awesome-prompt-engineering)**<br>
+  `prompts` `guides`
+
+- **[brandonhimpfen/awesome-prompt-engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering)**<br>
+  `prompts` `guides`
+
+- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)**<br>
+  `prompts` `guides`
+
+- **[GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)**<br>
+  `prompts` `cookbooks`
+
+- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)**<br>
+  `prompts` `evaluation`
+
+- **[langfuse/langfuse](https://github.com/langfuse/langfuse)**<br>
+  `prompts` `evaluation`
+
+- **[openai/evals](https://github.com/openai/evals)**<br>
+  `prompts` `evaluation`
+
+- **[microsoft/promptflow](https://github.com/microsoft/promptflow)**<br>
+  `prompts` `evaluation`
+
+- **[pisterlabs/promptset](https://github.com/pisterlabs/promptset)**<br>
+  `prompts` `evaluation`
 
 </details>
 
