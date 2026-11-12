@@ -33,7 +33,7 @@
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-**🧰 Daten & Werkzeuge:** [JSONL-Katalog](../data/sources.jsonl) · [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) · [Anleitung für Agenten](../CATALOG.md)
+**🧰 Daten & Werkzeuge:** [JSONL-Katalog](../data/sources.jsonl) · [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) · [Anleitung für Agenten](../docs/CATALOG.md)
 
 <p align="center">
   <b>967 Katalogeinträge zu Awesome-Listen, Best-of-Rankings und Meta-Indizes aus dem Open-Source-Ökosystem.</b>
@@ -59,7 +59,7 @@ jq -r 'select(.cat == "ai-llm-mcp") | .url' data/sources.jsonl
 jq -r 'select(.tags | index("security")) | .url' data/sources.jsonl
 ```
 
-Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Stand der Daten.
+Die [Anleitung für Agenten](../docs/CATALOG.md) erklärt die Datenfelder und den Stand der Daten.
 
 </details>
 
