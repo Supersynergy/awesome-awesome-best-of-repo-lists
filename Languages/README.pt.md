@@ -1,6 +1,6 @@
 # Awesome Awesome Best of Repo Lists
 
-![Awesome Awesome Best of Repo Lists](assets/hero.png)
+![Awesome Awesome Best of Repo Lists](../assets/hero.png)
 
 
 <details>
@@ -8,7 +8,7 @@
 
 | | |
 | --- | --- |
-| [![](https://flagcdn.com/24x18/gb.png) English](README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
+| [![](https://flagcdn.com/24x18/gb.png) English](../README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
 | [![](https://flagcdn.com/24x18/es.png) Español](README.es.md) | [![](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) |
 | [![](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) | [![](https://flagcdn.com/24x18/pt.png) Português](README.pt.md) |
 | [![](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) | [![](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) |
@@ -32,7 +32,7 @@
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-**Dados e links:** [JSONL](data/sources.jsonl) · [URLs](data/urls.txt) · [Agent guide](CATALOG.md)
+**Dados e links:** [JSONL](../data/sources.jsonl) · [URLs](../data/urls.txt) · [Agent guide](../CATALOG.md)
 
 ## Categorias
 

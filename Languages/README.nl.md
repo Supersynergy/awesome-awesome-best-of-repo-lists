@@ -1,6 +1,6 @@
 # Awesome Awesome Best of Repo Lists
 
-![Awesome Awesome Best of Repo Lists](assets/hero.png)
+![Awesome Awesome Best of Repo Lists](../assets/hero.png)
 
 
 <details>
@@ -8,7 +8,7 @@
 
 | | |
 | --- | --- |
-| [![](https://flagcdn.com/24x18/gb.png) English](README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
+| [![](https://flagcdn.com/24x18/gb.png) English](../README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
 | [![](https://flagcdn.com/24x18/es.png) Español](README.es.md) | [![](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) |
 | [![](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) | [![](https://flagcdn.com/24x18/pt.png) Português](README.pt.md) |
 | [![](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) | [![](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) |
@@ -20,44 +20,44 @@
 
 </details>
 
-## Upptäck de bästa repositorylistorna
+## Ontdek de beste repositorylijsten
 
-900 listor och resurser med öppen källkod i 15 kategorier.
+900 opensourcelijsten en bronnen in 15 categorieën.
 
-> Alla 900 länkar ingår. Namn och taggar behålls i original; detaljerade beskrivningar finns i de engelska och tyska katalogerna.
+> Alle 900 links zijn opgenomen. De oorspronkelijke namen en tags blijven behouden; uitgebreide beschrijvingen staan in de Engelse en Duitse catalogi.
 
-**Kopiera länken till repot:**
+**Kopieer de repositorylink:**
 
 ```text
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-**Data och länkar:** [JSONL](data/sources.jsonl) · [URLs](data/urls.txt) · [Agent guide](CATALOG.md)
+**Data en links:** [JSONL](../data/sources.jsonl) · [URLs](../data/urls.txt) · [Agent guide](../CATALOG.md)
 
-## Kategorier
+## Categorieën
 
-- [Allmänna listor](#c-meta-meta) · 225
-- [AI · LLM · MCP · Agenter](#c-ai-llm-mcp) · 225
-- [Språk och ekosystem](#c-languages) · 157
-- [Säkerhet · Integritet](#c-security-privacy) · 68
-- [Data · API:er · Skrapning](#c-data-domains) · 62
-- [DevOps · Moln · Infrastruktur](#c-devops) · 35
-- [Egen drift · Docker · Hemlabb](#c-selfhosted) · 20
-- [Affärer · SaaS](#c-business-saas) · 24
-- [Forskning · Artiklar](#c-research) · 20
-- [Leveranskedja · Licenser](#c-supply-chain) · 19
-- [Best-of-rankningar](#c-best-of) · 5
-- [Startprojekt · Mallar](#c-starters) · 12
-- [Offentlig sektor](#c-public-sector) · 6
-- [Register · Kataloger](#c-registries) · 14
-- [Officiella kataloger](#c-official-catalogs) · 8
+- [Algemene lijsten](#c-meta-meta) · 225
+- [AI · LLM · MCP · Agenten](#c-ai-llm-mcp) · 225
+- [Talen en ecosystemen](#c-languages) · 157
+- [Beveiliging · Privacy](#c-security-privacy) · 68
+- [Data · API’s · Scraping](#c-data-domains) · 62
+- [DevOps · Cloud · Infrastructuur](#c-devops) · 35
+- [Zelf hosten · Docker · Homelab](#c-selfhosted) · 20
+- [Zakelijk · SaaS](#c-business-saas) · 24
+- [Onderzoek · Artikelen](#c-research) · 20
+- [Toeleveringsketen · Licenties](#c-supply-chain) · 19
+- [Best-of-ranglijsten](#c-best-of) · 5
+- [Starters en sjablonen](#c-starters) · 12
+- [Publieke sector](#c-public-sector) · 6
+- [Registers en catalogi](#c-registries) · 14
+- [Officiële catalogi](#c-official-catalogs) · 8
 
 ---
 
 <a id="c-meta-meta"></a>
-## Allmänna listor <sub>(225)</sub>
+## Algemene lijsten <sub>(225)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**<br>
   `reimplement` `learning`
@@ -118,7 +118,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>Visa ytterligare 205 resurser</strong></summary>
+<summary><strong>Toon nog 205 bronnen</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -693,9 +693,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## AI · LLM · MCP · Agenter <sub>(225)</sub>
+## AI · LLM · MCP · Agenten <sub>(225)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**<br>
   `agents` `reference` `security-warning`
@@ -758,7 +758,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>Visa ytterligare 205 resurser</strong></summary>
+<summary><strong>Toon nog 205 bronnen</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1359,9 +1359,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-languages"></a>
-## Språk och ekosystem <sub>(157)</sub>
+## Talen en ecosystemen <sub>(157)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[vinta/awesome-python](https://github.com/vinta/awesome-python)**<br>
   `python`
@@ -1423,7 +1423,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `electron` `desktop`
 
 <details>
-<summary><strong>Visa ytterligare 137 resurser</strong></summary>
+<summary><strong>Toon nog 137 bronnen</strong></summary>
 
 - **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)**<br>
   `awesome-lists` `awesome-swift` `ios` `linux` `swift` `swift-extensions`
@@ -1820,9 +1820,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-security-privacy"></a>
-## Säkerhet · Integritet <sub>(68)</sub>
+## Beveiliging · Privacy <sub>(68)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**<br>
   `security`
@@ -1885,7 +1885,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `bugbounty` `bugbounty-blogs` `bugbounty-facebook` `bugbounty-writeups` `bugbounty-yahoo` `bugbountytips`
 
 <details>
-<summary><strong>Visa ytterligare 48 resurser</strong></summary>
+<summary><strong>Toon nog 48 bronnen</strong></summary>
 
 - **[onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)**<br>
   `courses` `infosec` `lab` `penetration-testing` `pentest` `security`
@@ -2032,9 +2032,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-data-domains"></a>
-## Data · API:er · Skrapning <sub>(62)</sub>
+## Data · API’s · Scraping <sub>(62)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**<br>
   `data` `datasets`
@@ -2096,7 +2096,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `geo` `geospatial` `geospatial-library` `geotools` `gis` `map`
 
 <details>
-<summary><strong>Visa ytterligare 42 resurser</strong></summary>
+<summary><strong>Toon nog 42 bronnen</strong></summary>
 
 - **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)**<br>
   `audio` `visualization`
@@ -2220,9 +2220,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-devops"></a>
-## DevOps · Moln · Infrastruktur <sub>(35)</sub>
+## DevOps · Cloud · Infrastructuur <sub>(35)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)**<br>
   `shell` `terminal`
@@ -2284,7 +2284,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `android` `computer-science-students` `data-science` `devops` `education` `fellowship`
 
 <details>
-<summary><strong>Visa ytterligare 15 resurser</strong></summary>
+<summary><strong>Toon nog 15 bronnen</strong></summary>
 
 - **[ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)**<br>
   `ci`
@@ -2334,9 +2334,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-selfhosted"></a>
-## Egen drift · Docker · Hemlabb <sub>(20)</sub>
+## Zelf hosten · Docker · Homelab <sub>(20)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**<br>
   `selfhosted` `apps` `business`
@@ -2397,9 +2397,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `selfhosted` `curated`
 
 <a id="c-business-saas"></a>
-## Affärer · SaaS <sub>(24)</sub>
+## Zakelijk · SaaS <sub>(24)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)**<br>
   `architecture` `cto` `decision-making` `engineering-management` `hiring` `interviewing`
@@ -2461,7 +2461,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `saas` `boilerplate`
 
 <details>
-<summary><strong>Visa ytterligare 4 resurser</strong></summary>
+<summary><strong>Toon nog 4 bronnen</strong></summary>
 
 - **[tyaga001/awesome-saas-boilerplates-and-starter-kits](https://github.com/tyaga001/awesome-saas-boilerplates-and-starter-kits)**<br>
   `starter` `saas`
@@ -2478,9 +2478,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-research"></a>
-## Forskning · Artiklar <sub>(20)</sub>
+## Onderzoek · Artikelen <sub>(20)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)**<br>
   `computer-science` `courses`
@@ -2539,9 +2539,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `research` `bioinformatics`
 
 <a id="c-supply-chain"></a>
-## Leveranskedja · Licenser <sub>(19)</sub>
+## Toeleveringsketen · Licenties <sub>(19)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)**<br>
   `assembler` `cartridge` `dmg` `documentation` `game-boy-development` `game-development`
@@ -2600,9 +2600,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `sbom` `signing` `security`
 
 <a id="c-best-of"></a>
-## Best-of-rankningar <sub>(5)</sub>
+## Best-of-ranglijsten <sub>(5)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)**<br>
   `best-of` `python` `ml`
@@ -2620,9 +2620,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `best-of` `jupyter`
 
 <a id="c-starters"></a>
-## Startprojekt · Mallar <sub>(12)</sub>
+## Starters en sjablonen <sub>(12)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**<br>
   `font` `free-photos` `icon-font` `icons` `music` `patterns`
@@ -2657,9 +2657,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `nextjs` `react`
 
 <a id="c-public-sector"></a>
-## Offentlig sektor <sub>(6)</sub>
+## Publieke sector <sub>(6)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)**<br>
   `app` `collection` `ios` `ipad` `iphone` `macos`
@@ -2680,9 +2680,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `eu` `government` `eupl`
 
 <a id="c-registries"></a>
-## Register · Kataloger <sub>(14)</sub>
+## Registers en catalogi <sub>(14)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[Hugging Face Models](https://huggingface.co/models)**<br>
   `models` `ai` `registry` `api`
@@ -2727,9 +2727,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `search` `live` `github` `discovery`
 
 <a id="c-official-catalogs"></a>
-## Officiella kataloger <sub>(8)</sub>
+## Officiële catalogi <sub>(8)</sub>
 
-**Utvalda resurser**
+**Uitgelichte bronnen**
 
 - **[CNCF Landscape](https://landscape.cncf.io)**<br>
   `cloud-native` `kubernetes` `architecture`

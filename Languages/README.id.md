@@ -1,6 +1,6 @@
 # Awesome Awesome Best of Repo Lists
 
-![Awesome Awesome Best of Repo Lists](assets/hero.png)
+![Awesome Awesome Best of Repo Lists](../assets/hero.png)
 
 
 <details>
@@ -8,7 +8,7 @@
 
 | | |
 | --- | --- |
-| [![](https://flagcdn.com/24x18/gb.png) English](README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
+| [![](https://flagcdn.com/24x18/gb.png) English](../README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
 | [![](https://flagcdn.com/24x18/es.png) Español](README.es.md) | [![](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) |
 | [![](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) | [![](https://flagcdn.com/24x18/pt.png) Português](README.pt.md) |
 | [![](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) | [![](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) |
@@ -20,44 +20,44 @@
 
 </details>
 
-## Огляд найкращих списків репозиторіїв
+## Jelajahi daftar repositori terbaik
 
-900 списків і ресурсів з відкритим кодом у 15 категоріях.
+900 daftar dan sumber terbuka dalam 15 kategori.
 
-> Усі 900 посилань включено. Назви та теги збережено в оригіналі; докладні описи є в англійському та німецькому каталогах.
+> Semua 900 tautan tersedia. Nama dan tag asli dipertahankan; deskripsi lengkap ada di katalog bahasa Inggris dan Jerman.
 
-**Скопіювати посилання на репозиторій:**
+**Salin tautan repositori:**
 
 ```text
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-**Дані та посилання:** [JSONL](data/sources.jsonl) · [URLs](data/urls.txt) · [Agent guide](CATALOG.md)
+**Data dan tautan:** [JSONL](../data/sources.jsonl) · [URLs](../data/urls.txt) · [Agent guide](../CATALOG.md)
 
-## Категорії
+## Kategori
 
-- [Загальні списки](#c-meta-meta) · 225
-- [ШІ · LLM · MCP · Агенти](#c-ai-llm-mcp) · 225
-- [Мови та екосистеми](#c-languages) · 157
-- [Безпека · Приватність](#c-security-privacy) · 68
-- [Дані · API · Скрапінг](#c-data-domains) · 62
-- [DevOps · Хмара · Інфраструктура](#c-devops) · 35
-- [Власний хостинг · Docker · Homelab](#c-selfhosted) · 20
-- [Бізнес · SaaS](#c-business-saas) · 24
-- [Дослідження · Статті](#c-research) · 20
-- [Ланцюг постачання · Ліцензії](#c-supply-chain) · 19
-- [Рейтинги найкращого](#c-best-of) · 5
-- [Стартові проєкти · Шаблони](#c-starters) · 12
-- [Державний сектор](#c-public-sector) · 6
-- [Реєстри · Каталоги](#c-registries) · 14
-- [Офіційні каталоги](#c-official-catalogs) · 8
+- [Daftar umum](#c-meta-meta) · 225
+- [AI · LLM · MCP · Agen](#c-ai-llm-mcp) · 225
+- [Bahasa dan ekosistem](#c-languages) · 157
+- [Keamanan · Privasi](#c-security-privacy) · 68
+- [Data · API · Scraping](#c-data-domains) · 62
+- [DevOps · Cloud · Infrastruktur](#c-devops) · 35
+- [Hosting sendiri · Docker · Homelab](#c-selfhosted) · 20
+- [Bisnis · SaaS](#c-business-saas) · 24
+- [Riset · Makalah](#c-research) · 20
+- [Rantai pasok · Lisensi](#c-supply-chain) · 19
+- [Peringkat terbaik](#c-best-of) · 5
+- [Starter · Templat](#c-starters) · 12
+- [Sektor publik](#c-public-sector) · 6
+- [Registri · Katalog](#c-registries) · 14
+- [Katalog resmi](#c-official-catalogs) · 8
 
 ---
 
 <a id="c-meta-meta"></a>
-## Загальні списки <sub>(225)</sub>
+## Daftar umum <sub>(225)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**<br>
   `reimplement` `learning`
@@ -118,7 +118,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>Показати ще 205 ресурсів</strong></summary>
+<summary><strong>Tampilkan 205 sumber lainnya</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -693,9 +693,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## ШІ · LLM · MCP · Агенти <sub>(225)</sub>
+## AI · LLM · MCP · Agen <sub>(225)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**<br>
   `agents` `reference` `security-warning`
@@ -758,7 +758,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>Показати ще 205 ресурсів</strong></summary>
+<summary><strong>Tampilkan 205 sumber lainnya</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1359,9 +1359,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-languages"></a>
-## Мови та екосистеми <sub>(157)</sub>
+## Bahasa dan ekosistem <sub>(157)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[vinta/awesome-python](https://github.com/vinta/awesome-python)**<br>
   `python`
@@ -1423,7 +1423,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `electron` `desktop`
 
 <details>
-<summary><strong>Показати ще 137 ресурсів</strong></summary>
+<summary><strong>Tampilkan 137 sumber lainnya</strong></summary>
 
 - **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)**<br>
   `awesome-lists` `awesome-swift` `ios` `linux` `swift` `swift-extensions`
@@ -1820,9 +1820,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-security-privacy"></a>
-## Безпека · Приватність <sub>(68)</sub>
+## Keamanan · Privasi <sub>(68)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**<br>
   `security`
@@ -1885,7 +1885,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `bugbounty` `bugbounty-blogs` `bugbounty-facebook` `bugbounty-writeups` `bugbounty-yahoo` `bugbountytips`
 
 <details>
-<summary><strong>Показати ще 48 ресурсів</strong></summary>
+<summary><strong>Tampilkan 48 sumber lainnya</strong></summary>
 
 - **[onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)**<br>
   `courses` `infosec` `lab` `penetration-testing` `pentest` `security`
@@ -2032,9 +2032,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-data-domains"></a>
-## Дані · API · Скрапінг <sub>(62)</sub>
+## Data · API · Scraping <sub>(62)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**<br>
   `data` `datasets`
@@ -2096,7 +2096,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `geo` `geospatial` `geospatial-library` `geotools` `gis` `map`
 
 <details>
-<summary><strong>Показати ще 42 ресурсів</strong></summary>
+<summary><strong>Tampilkan 42 sumber lainnya</strong></summary>
 
 - **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)**<br>
   `audio` `visualization`
@@ -2220,9 +2220,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-devops"></a>
-## DevOps · Хмара · Інфраструктура <sub>(35)</sub>
+## DevOps · Cloud · Infrastruktur <sub>(35)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)**<br>
   `shell` `terminal`
@@ -2284,7 +2284,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `android` `computer-science-students` `data-science` `devops` `education` `fellowship`
 
 <details>
-<summary><strong>Показати ще 15 ресурсів</strong></summary>
+<summary><strong>Tampilkan 15 sumber lainnya</strong></summary>
 
 - **[ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)**<br>
   `ci`
@@ -2334,9 +2334,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-selfhosted"></a>
-## Власний хостинг · Docker · Homelab <sub>(20)</sub>
+## Hosting sendiri · Docker · Homelab <sub>(20)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**<br>
   `selfhosted` `apps` `business`
@@ -2397,9 +2397,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `selfhosted` `curated`
 
 <a id="c-business-saas"></a>
-## Бізнес · SaaS <sub>(24)</sub>
+## Bisnis · SaaS <sub>(24)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)**<br>
   `architecture` `cto` `decision-making` `engineering-management` `hiring` `interviewing`
@@ -2461,7 +2461,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `saas` `boilerplate`
 
 <details>
-<summary><strong>Показати ще 4 ресурсів</strong></summary>
+<summary><strong>Tampilkan 4 sumber lainnya</strong></summary>
 
 - **[tyaga001/awesome-saas-boilerplates-and-starter-kits](https://github.com/tyaga001/awesome-saas-boilerplates-and-starter-kits)**<br>
   `starter` `saas`
@@ -2478,9 +2478,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-research"></a>
-## Дослідження · Статті <sub>(20)</sub>
+## Riset · Makalah <sub>(20)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)**<br>
   `computer-science` `courses`
@@ -2539,9 +2539,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `research` `bioinformatics`
 
 <a id="c-supply-chain"></a>
-## Ланцюг постачання · Ліцензії <sub>(19)</sub>
+## Rantai pasok · Lisensi <sub>(19)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)**<br>
   `assembler` `cartridge` `dmg` `documentation` `game-boy-development` `game-development`
@@ -2600,9 +2600,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `sbom` `signing` `security`
 
 <a id="c-best-of"></a>
-## Рейтинги найкращого <sub>(5)</sub>
+## Peringkat terbaik <sub>(5)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)**<br>
   `best-of` `python` `ml`
@@ -2620,9 +2620,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `best-of` `jupyter`
 
 <a id="c-starters"></a>
-## Стартові проєкти · Шаблони <sub>(12)</sub>
+## Starter · Templat <sub>(12)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**<br>
   `font` `free-photos` `icon-font` `icons` `music` `patterns`
@@ -2657,9 +2657,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `nextjs` `react`
 
 <a id="c-public-sector"></a>
-## Державний сектор <sub>(6)</sub>
+## Sektor publik <sub>(6)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)**<br>
   `app` `collection` `ios` `ipad` `iphone` `macos`
@@ -2680,9 +2680,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `eu` `government` `eupl`
 
 <a id="c-registries"></a>
-## Реєстри · Каталоги <sub>(14)</sub>
+## Registri · Katalog <sub>(14)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[Hugging Face Models](https://huggingface.co/models)**<br>
   `models` `ai` `registry` `api`
@@ -2727,9 +2727,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `search` `live` `github` `discovery`
 
 <a id="c-official-catalogs"></a>
-## Офіційні каталоги <sub>(8)</sub>
+## Katalog resmi <sub>(8)</sub>
 
-**Вибрані ресурси**
+**Sumber pilihan**
 
 - **[CNCF Landscape](https://landscape.cncf.io)**<br>
   `cloud-native` `kubernetes` `architecture`

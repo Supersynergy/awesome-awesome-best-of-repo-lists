@@ -1,6 +1,6 @@
 # Awesome Awesome Best of Repo Lists
 
-![Awesome Awesome Best of Repo Lists](assets/hero.png)
+![Awesome Awesome Best of Repo Lists](../assets/hero.png)
 
 
 <details>
@@ -8,7 +8,7 @@
 
 | | |
 | --- | --- |
-| [![](https://flagcdn.com/24x18/gb.png) English](README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
+| [![](https://flagcdn.com/24x18/gb.png) English](../README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
 | [![](https://flagcdn.com/24x18/es.png) Español](README.es.md) | [![](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) |
 | [![](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) | [![](https://flagcdn.com/24x18/pt.png) Português](README.pt.md) |
 | [![](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) | [![](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) |
@@ -20,44 +20,44 @@
 
 </details>
 
-## 探索精选代码仓库列表
+## استكشف أفضل قوائم المستودعات
 
-涵盖 15 个类别、900 个开源列表和资源。
+٩٠٠ قائمة ومورد مفتوح المصدر في ١٥ فئة.
 
-> 已收录全部 900 个链接。名称和标签保留原文；详细说明见英语和德语目录。
+> تتضمن هذه الصفحة جميع الروابط. تبقى الأسماء والوسوم الأصلية، وتتوفر الأوصاف المفصلة بالإنجليزية والألمانية.
 
-**复制仓库链接:**
+**انسخ رابط المستودع:**
 
 ```text
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-**数据与链接:** [JSONL](data/sources.jsonl) · [URLs](data/urls.txt) · [Agent guide](CATALOG.md)
+**البيانات والروابط:** [JSONL](../data/sources.jsonl) · [URLs](../data/urls.txt) · [Agent guide](../CATALOG.md)
 
-## 分类
+## الفئات
 
-- [综合列表](#c-meta-meta) · 225
-- [人工智能 · LLM · MCP · 智能体](#c-ai-llm-mcp) · 225
-- [语言与生态系统](#c-languages) · 157
-- [安全 · 隐私](#c-security-privacy) · 68
-- [数据 · API · 抓取](#c-data-domains) · 62
-- [DevOps · 云 · 基础设施](#c-devops) · 35
-- [自托管 · Docker · 家庭实验室](#c-selfhosted) · 20
-- [商业 · SaaS](#c-business-saas) · 24
-- [研究 · 论文](#c-research) · 20
-- [供应链 · 许可证](#c-supply-chain) · 19
-- [最佳排行榜](#c-best-of) · 5
-- [入门项目 · 模板](#c-starters) · 12
-- [公共部门](#c-public-sector) · 6
-- [注册表 · 目录](#c-registries) · 14
-- [官方目录](#c-official-catalogs) · 8
+- [قوائم عامة](#c-meta-meta) · 225
+- [الذكاء الاصطناعي · LLM · MCP · الوكلاء](#c-ai-llm-mcp) · 225
+- [اللغات والأنظمة](#c-languages) · 157
+- [الأمان · الخصوصية](#c-security-privacy) · 68
+- [البيانات · واجهات API · جمع البيانات](#c-data-domains) · 62
+- [DevOps · السحابة · البنية التحتية](#c-devops) · 35
+- [الاستضافة الذاتية · Docker · المختبر المنزلي](#c-selfhosted) · 20
+- [الأعمال · SaaS](#c-business-saas) · 24
+- [الأبحاث · الأوراق](#c-research) · 20
+- [سلسلة التوريد · التراخيص](#c-supply-chain) · 19
+- [تصنيفات الأفضل](#c-best-of) · 5
+- [المشاريع الأولية · القوالب](#c-starters) · 12
+- [القطاع العام](#c-public-sector) · 6
+- [السجلات · الفهارس](#c-registries) · 14
+- [الفهارس الرسمية](#c-official-catalogs) · 8
 
 ---
 
 <a id="c-meta-meta"></a>
-## 综合列表 <sub>(225)</sub>
+## قوائم عامة <sub>(225)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**<br>
   `reimplement` `learning`
@@ -118,7 +118,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>显示另外 205 项资源</strong></summary>
+<summary><strong>عرض 205 موارد إضافية</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -693,9 +693,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 人工智能 · LLM · MCP · 智能体 <sub>(225)</sub>
+## الذكاء الاصطناعي · LLM · MCP · الوكلاء <sub>(225)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**<br>
   `agents` `reference` `security-warning`
@@ -758,7 +758,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>显示另外 205 项资源</strong></summary>
+<summary><strong>عرض 205 موارد إضافية</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1359,9 +1359,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-languages"></a>
-## 语言与生态系统 <sub>(157)</sub>
+## اللغات والأنظمة <sub>(157)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[vinta/awesome-python](https://github.com/vinta/awesome-python)**<br>
   `python`
@@ -1423,7 +1423,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `electron` `desktop`
 
 <details>
-<summary><strong>显示另外 137 项资源</strong></summary>
+<summary><strong>عرض 137 موارد إضافية</strong></summary>
 
 - **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)**<br>
   `awesome-lists` `awesome-swift` `ios` `linux` `swift` `swift-extensions`
@@ -1820,9 +1820,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-security-privacy"></a>
-## 安全 · 隐私 <sub>(68)</sub>
+## الأمان · الخصوصية <sub>(68)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**<br>
   `security`
@@ -1885,7 +1885,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `bugbounty` `bugbounty-blogs` `bugbounty-facebook` `bugbounty-writeups` `bugbounty-yahoo` `bugbountytips`
 
 <details>
-<summary><strong>显示另外 48 项资源</strong></summary>
+<summary><strong>عرض 48 موارد إضافية</strong></summary>
 
 - **[onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)**<br>
   `courses` `infosec` `lab` `penetration-testing` `pentest` `security`
@@ -2032,9 +2032,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-data-domains"></a>
-## 数据 · API · 抓取 <sub>(62)</sub>
+## البيانات · واجهات API · جمع البيانات <sub>(62)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**<br>
   `data` `datasets`
@@ -2096,7 +2096,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `geo` `geospatial` `geospatial-library` `geotools` `gis` `map`
 
 <details>
-<summary><strong>显示另外 42 项资源</strong></summary>
+<summary><strong>عرض 42 موارد إضافية</strong></summary>
 
 - **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)**<br>
   `audio` `visualization`
@@ -2220,9 +2220,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-devops"></a>
-## DevOps · 云 · 基础设施 <sub>(35)</sub>
+## DevOps · السحابة · البنية التحتية <sub>(35)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)**<br>
   `shell` `terminal`
@@ -2284,7 +2284,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `android` `computer-science-students` `data-science` `devops` `education` `fellowship`
 
 <details>
-<summary><strong>显示另外 15 项资源</strong></summary>
+<summary><strong>عرض 15 موارد إضافية</strong></summary>
 
 - **[ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)**<br>
   `ci`
@@ -2334,9 +2334,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-selfhosted"></a>
-## 自托管 · Docker · 家庭实验室 <sub>(20)</sub>
+## الاستضافة الذاتية · Docker · المختبر المنزلي <sub>(20)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**<br>
   `selfhosted` `apps` `business`
@@ -2397,9 +2397,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `selfhosted` `curated`
 
 <a id="c-business-saas"></a>
-## 商业 · SaaS <sub>(24)</sub>
+## الأعمال · SaaS <sub>(24)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)**<br>
   `architecture` `cto` `decision-making` `engineering-management` `hiring` `interviewing`
@@ -2461,7 +2461,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `saas` `boilerplate`
 
 <details>
-<summary><strong>显示另外 4 项资源</strong></summary>
+<summary><strong>عرض 4 موارد إضافية</strong></summary>
 
 - **[tyaga001/awesome-saas-boilerplates-and-starter-kits](https://github.com/tyaga001/awesome-saas-boilerplates-and-starter-kits)**<br>
   `starter` `saas`
@@ -2478,9 +2478,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-research"></a>
-## 研究 · 论文 <sub>(20)</sub>
+## الأبحاث · الأوراق <sub>(20)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)**<br>
   `computer-science` `courses`
@@ -2539,9 +2539,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `research` `bioinformatics`
 
 <a id="c-supply-chain"></a>
-## 供应链 · 许可证 <sub>(19)</sub>
+## سلسلة التوريد · التراخيص <sub>(19)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)**<br>
   `assembler` `cartridge` `dmg` `documentation` `game-boy-development` `game-development`
@@ -2600,9 +2600,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `sbom` `signing` `security`
 
 <a id="c-best-of"></a>
-## 最佳排行榜 <sub>(5)</sub>
+## تصنيفات الأفضل <sub>(5)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)**<br>
   `best-of` `python` `ml`
@@ -2620,9 +2620,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `best-of` `jupyter`
 
 <a id="c-starters"></a>
-## 入门项目 · 模板 <sub>(12)</sub>
+## المشاريع الأولية · القوالب <sub>(12)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**<br>
   `font` `free-photos` `icon-font` `icons` `music` `patterns`
@@ -2657,9 +2657,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `nextjs` `react`
 
 <a id="c-public-sector"></a>
-## 公共部门 <sub>(6)</sub>
+## القطاع العام <sub>(6)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)**<br>
   `app` `collection` `ios` `ipad` `iphone` `macos`
@@ -2680,9 +2680,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `eu` `government` `eupl`
 
 <a id="c-registries"></a>
-## 注册表 · 目录 <sub>(14)</sub>
+## السجلات · الفهارس <sub>(14)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[Hugging Face Models](https://huggingface.co/models)**<br>
   `models` `ai` `registry` `api`
@@ -2727,9 +2727,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `search` `live` `github` `discovery`
 
 <a id="c-official-catalogs"></a>
-## 官方目录 <sub>(8)</sub>
+## الفهارس الرسمية <sub>(8)</sub>
 
-**精选资源**
+**موارد مختارة**
 
 - **[CNCF Landscape](https://landscape.cncf.io)**<br>
   `cloud-native` `kubernetes` `architecture`

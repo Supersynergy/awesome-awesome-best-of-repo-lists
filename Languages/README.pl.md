@@ -1,6 +1,6 @@
 # Awesome Awesome Best of Repo Lists
 
-![Awesome Awesome Best of Repo Lists](assets/hero.png)
+![Awesome Awesome Best of Repo Lists](../assets/hero.png)
 
 
 <details>
@@ -8,7 +8,7 @@
 
 | | |
 | --- | --- |
-| [![](https://flagcdn.com/24x18/gb.png) English](README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
+| [![](https://flagcdn.com/24x18/gb.png) English](../README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
 | [![](https://flagcdn.com/24x18/es.png) Español](README.es.md) | [![](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) |
 | [![](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) | [![](https://flagcdn.com/24x18/pt.png) Português](README.pt.md) |
 | [![](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) | [![](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) |
@@ -20,44 +20,44 @@
 
 </details>
 
-## Explorez les meilleures listes de dépôts
+## Odkryj najlepsze listy repozytoriów
 
-900 listes et ressources open source dans 15 catégories.
+900 list i zasobów open source w 15 kategoriach.
 
-> Les 900 liens sont inclus. Les noms et étiquettes d’origine sont conservés ; les descriptions détaillées figurent dans les catalogues anglais et allemand.
+> Uwzględniono 900 linków. Oryginalne nazwy i tagi pozostają bez zmian; szczegółowe opisy są w katalogach angielskim i niemieckim.
 
-**Copier le lien du dépôt:**
+**Skopiuj link do repozytorium:**
 
 ```text
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-**Données et liens:** [JSONL](data/sources.jsonl) · [URLs](data/urls.txt) · [Agent guide](CATALOG.md)
+**Dane i linki:** [JSONL](../data/sources.jsonl) · [URLs](../data/urls.txt) · [Agent guide](../CATALOG.md)
 
-## Catégories
+## Kategorie
 
-- [Listes générales](#c-meta-meta) · 225
-- [IA · LLM · MCP · Agents](#c-ai-llm-mcp) · 225
-- [Langages et écosystèmes](#c-languages) · 157
-- [Sécurité · Confidentialité](#c-security-privacy) · 68
-- [Données · API · Scraping](#c-data-domains) · 62
-- [DevOps · Cloud · Infrastructure](#c-devops) · 35
-- [Auto-hébergement · Docker · Homelab](#c-selfhosted) · 20
-- [Entreprise · SaaS](#c-business-saas) · 24
-- [Recherche · Articles](#c-research) · 20
-- [Chaîne logistique · Licences](#c-supply-chain) · 19
-- [Classements Best-of](#c-best-of) · 5
-- [Démarrage et modèles](#c-starters) · 12
-- [Secteur public](#c-public-sector) · 6
-- [Registres et catalogues](#c-registries) · 14
-- [Catalogues officiels](#c-official-catalogs) · 8
+- [Listy ogólne](#c-meta-meta) · 225
+- [AI · LLM · MCP · Agenci](#c-ai-llm-mcp) · 225
+- [Języki i ekosystemy](#c-languages) · 157
+- [Bezpieczeństwo · Prywatność](#c-security-privacy) · 68
+- [Dane · API · Scraping](#c-data-domains) · 62
+- [DevOps · Chmura · Infrastruktura](#c-devops) · 35
+- [Własny hosting · Docker · Homelab](#c-selfhosted) · 20
+- [Biznes · SaaS](#c-business-saas) · 24
+- [Badania · Artykuły](#c-research) · 20
+- [Łańcuch dostaw · Licencje](#c-supply-chain) · 19
+- [Rankingi Best-of](#c-best-of) · 5
+- [Szablony i projekty startowe](#c-starters) · 12
+- [Sektor publiczny](#c-public-sector) · 6
+- [Rejestry i katalogi](#c-registries) · 14
+- [Oficjalne katalogi](#c-official-catalogs) · 8
 
 ---
 
 <a id="c-meta-meta"></a>
-## Listes générales <sub>(225)</sub>
+## Listy ogólne <sub>(225)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**<br>
   `reimplement` `learning`
@@ -118,7 +118,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>Afficher 205 ressources supplémentaires</strong></summary>
+<summary><strong>Pokaż jeszcze 205 zasobów</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -693,9 +693,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## IA · LLM · MCP · Agents <sub>(225)</sub>
+## AI · LLM · MCP · Agenci <sub>(225)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**<br>
   `agents` `reference` `security-warning`
@@ -758,7 +758,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>Afficher 205 ressources supplémentaires</strong></summary>
+<summary><strong>Pokaż jeszcze 205 zasobów</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1359,9 +1359,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-languages"></a>
-## Langages et écosystèmes <sub>(157)</sub>
+## Języki i ekosystemy <sub>(157)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[vinta/awesome-python](https://github.com/vinta/awesome-python)**<br>
   `python`
@@ -1423,7 +1423,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `electron` `desktop`
 
 <details>
-<summary><strong>Afficher 137 ressources supplémentaires</strong></summary>
+<summary><strong>Pokaż jeszcze 137 zasobów</strong></summary>
 
 - **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)**<br>
   `awesome-lists` `awesome-swift` `ios` `linux` `swift` `swift-extensions`
@@ -1820,9 +1820,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-security-privacy"></a>
-## Sécurité · Confidentialité <sub>(68)</sub>
+## Bezpieczeństwo · Prywatność <sub>(68)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**<br>
   `security`
@@ -1885,7 +1885,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `bugbounty` `bugbounty-blogs` `bugbounty-facebook` `bugbounty-writeups` `bugbounty-yahoo` `bugbountytips`
 
 <details>
-<summary><strong>Afficher 48 ressources supplémentaires</strong></summary>
+<summary><strong>Pokaż jeszcze 48 zasobów</strong></summary>
 
 - **[onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)**<br>
   `courses` `infosec` `lab` `penetration-testing` `pentest` `security`
@@ -2032,9 +2032,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-data-domains"></a>
-## Données · API · Scraping <sub>(62)</sub>
+## Dane · API · Scraping <sub>(62)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**<br>
   `data` `datasets`
@@ -2096,7 +2096,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `geo` `geospatial` `geospatial-library` `geotools` `gis` `map`
 
 <details>
-<summary><strong>Afficher 42 ressources supplémentaires</strong></summary>
+<summary><strong>Pokaż jeszcze 42 zasobów</strong></summary>
 
 - **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)**<br>
   `audio` `visualization`
@@ -2220,9 +2220,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-devops"></a>
-## DevOps · Cloud · Infrastructure <sub>(35)</sub>
+## DevOps · Chmura · Infrastruktura <sub>(35)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)**<br>
   `shell` `terminal`
@@ -2284,7 +2284,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `android` `computer-science-students` `data-science` `devops` `education` `fellowship`
 
 <details>
-<summary><strong>Afficher 15 ressources supplémentaires</strong></summary>
+<summary><strong>Pokaż jeszcze 15 zasobów</strong></summary>
 
 - **[ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)**<br>
   `ci`
@@ -2334,9 +2334,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-selfhosted"></a>
-## Auto-hébergement · Docker · Homelab <sub>(20)</sub>
+## Własny hosting · Docker · Homelab <sub>(20)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**<br>
   `selfhosted` `apps` `business`
@@ -2397,9 +2397,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `selfhosted` `curated`
 
 <a id="c-business-saas"></a>
-## Entreprise · SaaS <sub>(24)</sub>
+## Biznes · SaaS <sub>(24)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)**<br>
   `architecture` `cto` `decision-making` `engineering-management` `hiring` `interviewing`
@@ -2461,7 +2461,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `saas` `boilerplate`
 
 <details>
-<summary><strong>Afficher 4 ressources supplémentaires</strong></summary>
+<summary><strong>Pokaż jeszcze 4 zasobów</strong></summary>
 
 - **[tyaga001/awesome-saas-boilerplates-and-starter-kits](https://github.com/tyaga001/awesome-saas-boilerplates-and-starter-kits)**<br>
   `starter` `saas`
@@ -2478,9 +2478,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-research"></a>
-## Recherche · Articles <sub>(20)</sub>
+## Badania · Artykuły <sub>(20)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)**<br>
   `computer-science` `courses`
@@ -2539,9 +2539,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `research` `bioinformatics`
 
 <a id="c-supply-chain"></a>
-## Chaîne logistique · Licences <sub>(19)</sub>
+## Łańcuch dostaw · Licencje <sub>(19)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)**<br>
   `assembler` `cartridge` `dmg` `documentation` `game-boy-development` `game-development`
@@ -2600,9 +2600,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `sbom` `signing` `security`
 
 <a id="c-best-of"></a>
-## Classements Best-of <sub>(5)</sub>
+## Rankingi Best-of <sub>(5)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)**<br>
   `best-of` `python` `ml`
@@ -2620,9 +2620,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `best-of` `jupyter`
 
 <a id="c-starters"></a>
-## Démarrage et modèles <sub>(12)</sub>
+## Szablony i projekty startowe <sub>(12)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**<br>
   `font` `free-photos` `icon-font` `icons` `music` `patterns`
@@ -2657,9 +2657,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `nextjs` `react`
 
 <a id="c-public-sector"></a>
-## Secteur public <sub>(6)</sub>
+## Sektor publiczny <sub>(6)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)**<br>
   `app` `collection` `ios` `ipad` `iphone` `macos`
@@ -2680,9 +2680,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `eu` `government` `eupl`
 
 <a id="c-registries"></a>
-## Registres et catalogues <sub>(14)</sub>
+## Rejestry i katalogi <sub>(14)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[Hugging Face Models](https://huggingface.co/models)**<br>
   `models` `ai` `registry` `api`
@@ -2727,9 +2727,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `search` `live` `github` `discovery`
 
 <a id="c-official-catalogs"></a>
-## Catalogues officiels <sub>(8)</sub>
+## Oficjalne katalogi <sub>(8)</sub>
 
-**Ressources à découvrir**
+**Polecane zasoby**
 
 - **[CNCF Landscape](https://landscape.cncf.io)**<br>
   `cloud-native` `kubernetes` `architecture`

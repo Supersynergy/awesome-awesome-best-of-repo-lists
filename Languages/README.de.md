@@ -1,6 +1,6 @@
 # Awesome Awesome Best of Repo Lists
 
-![Awesome Awesome Best of Repo Lists — a constellation of open-source resources](assets/hero.png)
+![Awesome Awesome Best of Repo Lists — a constellation of open-source resources](../assets/hero.png)
 
 
 <details>
@@ -8,7 +8,7 @@
 
 | | |
 | --- | --- |
-| [![](https://flagcdn.com/24x18/gb.png) English](README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
+| [![](https://flagcdn.com/24x18/gb.png) English](../README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
 | [![](https://flagcdn.com/24x18/es.png) Español](README.es.md) | [![](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) |
 | [![](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) | [![](https://flagcdn.com/24x18/pt.png) Português](README.pt.md) |
 | [![](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) | [![](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) |
@@ -20,7 +20,7 @@
 
 </details>
 
-**Schnellzugriff:** [Alle Kategorien](#inhalt) · [KI & Agenten](#c-ai-llm-mcp) · [Sprachen](#c-languages) · [Security](#c-security-privacy) · [Self-hosted](#c-selfhosted) · [Best-of](#c-best-of) · [Katalogdaten](data/sources.jsonl)
+**Schnellzugriff:** [Alle Kategorien](#inhalt) · [KI & Agenten](#c-ai-llm-mcp) · [Sprachen](#c-languages) · [Security](#c-security-privacy) · [Self-hosted](#c-selfhosted) · [Best-of](#c-best-of) · [Katalogdaten](../data/sources.jsonl)
 
 **Repository-Link kopieren:**
 
@@ -28,7 +28,7 @@
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-[JSONL](data/sources.jsonl) · [URL-Liste](data/urls.txt) · [Anleitung für Agenten](CATALOG.md)
+[JSONL](../data/sources.jsonl) · [URL-Liste](../data/urls.txt) · [Anleitung für Agenten](../CATALOG.md)
 
 <p align="center">
   <b>900 kuratierte Awesome-Listen, Best-of-Rankings und Meta-Indizes — jeder Eintrag ist selbst ein Meta-Filter für eine Domain.</b>
@@ -3490,7 +3490,7 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
 ## Daten & Hinweise
 
 
-- [`data/sources.jsonl`](data/sources.jsonl) — kompletter Katalog, eine JSON-Zeile pro Quelle (id, repo, url, cat, tags, value, claim, evidence).
+- [`data/sources.jsonl`](../data/sources.jsonl) — kompletter Katalog, eine JSON-Zeile pro Quelle (id, repo, url, cat, tags, value, claim, evidence).
 - Stars, Lizenzen und Push-Daten sind Snapshots der GitHub API (Stand 2026-11-12).
 - Lizenz einer Liste ≠ Lizenz des gelisteten Codes — vor Nutzung immer die LICENSE des Donor-Repos prüfen.
 - Hohe Stars = Sichtbarkeit, nicht automatisch Qualität — Kuratierung erfolgt pro Kategorie.

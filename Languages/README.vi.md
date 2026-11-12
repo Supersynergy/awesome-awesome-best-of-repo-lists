@@ -1,6 +1,6 @@
 # Awesome Awesome Best of Repo Lists
 
-![Awesome Awesome Best of Repo Lists](assets/hero.png)
+![Awesome Awesome Best of Repo Lists](../assets/hero.png)
 
 
 <details>
@@ -8,7 +8,7 @@
 
 | | |
 | --- | --- |
-| [![](https://flagcdn.com/24x18/gb.png) English](README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
+| [![](https://flagcdn.com/24x18/gb.png) English](../README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
 | [![](https://flagcdn.com/24x18/es.png) Español](README.es.md) | [![](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) |
 | [![](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) | [![](https://flagcdn.com/24x18/pt.png) Português](README.pt.md) |
 | [![](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) | [![](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) |
@@ -20,44 +20,44 @@
 
 </details>
 
-## 최고의 저장소 목록 둘러보기
+## Khám phá các danh sách kho mã nguồn hàng đầu
 
-15개 카테고리의 오픈 소스 목록과 자료 900개.
+900 danh sách và tài nguyên mã nguồn mở trong 15 danh mục.
 
-> 900개 링크가 모두 포함되어 있습니다. 이름과 태그는 원문을 유지하며, 자세한 설명은 영어 및 독일어 카탈로그에 있습니다.
+> Bao gồm cả 900 liên kết. Tên và thẻ được giữ nguyên; mô tả chi tiết có trong danh mục tiếng Anh và tiếng Đức.
 
-**저장소 링크 복사:**
+**Sao chép liên kết kho mã nguồn:**
 
 ```text
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-**데이터와 링크:** [JSONL](data/sources.jsonl) · [URLs](data/urls.txt) · [Agent guide](CATALOG.md)
+**Dữ liệu và liên kết:** [JSONL](../data/sources.jsonl) · [URLs](../data/urls.txt) · [Agent guide](../CATALOG.md)
 
-## 카테고리
+## Danh mục
 
-- [종합 목록](#c-meta-meta) · 225
-- [AI · LLM · MCP · 에이전트](#c-ai-llm-mcp) · 225
-- [언어와 생태계](#c-languages) · 157
-- [보안 · 개인정보 보호](#c-security-privacy) · 68
-- [데이터 · API · 스크래핑](#c-data-domains) · 62
-- [DevOps · 클라우드 · 인프라](#c-devops) · 35
-- [셀프 호스팅 · Docker · 홈랩](#c-selfhosted) · 20
-- [비즈니스 · SaaS](#c-business-saas) · 24
-- [연구 · 논문](#c-research) · 20
-- [공급망 · 라이선스](#c-supply-chain) · 19
-- [베스트 순위](#c-best-of) · 5
-- [스타터 · 템플릿](#c-starters) · 12
-- [공공 부문](#c-public-sector) · 6
-- [레지스트리 · 카탈로그](#c-registries) · 14
-- [공식 카탈로그](#c-official-catalogs) · 8
+- [Danh sách tổng hợp](#c-meta-meta) · 225
+- [AI · LLM · MCP · Tác nhân](#c-ai-llm-mcp) · 225
+- [Ngôn ngữ và hệ sinh thái](#c-languages) · 157
+- [Bảo mật · Quyền riêng tư](#c-security-privacy) · 68
+- [Dữ liệu · API · Thu thập](#c-data-domains) · 62
+- [DevOps · Đám mây · Hạ tầng](#c-devops) · 35
+- [Tự lưu trữ · Docker · Homelab](#c-selfhosted) · 20
+- [Kinh doanh · SaaS](#c-business-saas) · 24
+- [Nghiên cứu · Bài báo](#c-research) · 20
+- [Chuỗi cung ứng · Giấy phép](#c-supply-chain) · 19
+- [Bảng xếp hạng tốt nhất](#c-best-of) · 5
+- [Dự án khởi đầu · Mẫu](#c-starters) · 12
+- [Khu vực công](#c-public-sector) · 6
+- [Đăng ký · Danh mục](#c-registries) · 14
+- [Danh mục chính thức](#c-official-catalogs) · 8
 
 ---
 
 <a id="c-meta-meta"></a>
-## 종합 목록 <sub>(225)</sub>
+## Danh sách tổng hợp <sub>(225)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**<br>
   `reimplement` `learning`
@@ -118,7 +118,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>나머지 205개 보기</strong></summary>
+<summary><strong>Hiện thêm 205 tài nguyên</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -693,9 +693,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## AI · LLM · MCP · 에이전트 <sub>(225)</sub>
+## AI · LLM · MCP · Tác nhân <sub>(225)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**<br>
   `agents` `reference` `security-warning`
@@ -758,7 +758,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>나머지 205개 보기</strong></summary>
+<summary><strong>Hiện thêm 205 tài nguyên</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1359,9 +1359,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-languages"></a>
-## 언어와 생태계 <sub>(157)</sub>
+## Ngôn ngữ và hệ sinh thái <sub>(157)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[vinta/awesome-python](https://github.com/vinta/awesome-python)**<br>
   `python`
@@ -1423,7 +1423,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `electron` `desktop`
 
 <details>
-<summary><strong>나머지 137개 보기</strong></summary>
+<summary><strong>Hiện thêm 137 tài nguyên</strong></summary>
 
 - **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)**<br>
   `awesome-lists` `awesome-swift` `ios` `linux` `swift` `swift-extensions`
@@ -1820,9 +1820,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-security-privacy"></a>
-## 보안 · 개인정보 보호 <sub>(68)</sub>
+## Bảo mật · Quyền riêng tư <sub>(68)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**<br>
   `security`
@@ -1885,7 +1885,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `bugbounty` `bugbounty-blogs` `bugbounty-facebook` `bugbounty-writeups` `bugbounty-yahoo` `bugbountytips`
 
 <details>
-<summary><strong>나머지 48개 보기</strong></summary>
+<summary><strong>Hiện thêm 48 tài nguyên</strong></summary>
 
 - **[onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)**<br>
   `courses` `infosec` `lab` `penetration-testing` `pentest` `security`
@@ -2032,9 +2032,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-data-domains"></a>
-## 데이터 · API · 스크래핑 <sub>(62)</sub>
+## Dữ liệu · API · Thu thập <sub>(62)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**<br>
   `data` `datasets`
@@ -2096,7 +2096,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `geo` `geospatial` `geospatial-library` `geotools` `gis` `map`
 
 <details>
-<summary><strong>나머지 42개 보기</strong></summary>
+<summary><strong>Hiện thêm 42 tài nguyên</strong></summary>
 
 - **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)**<br>
   `audio` `visualization`
@@ -2220,9 +2220,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-devops"></a>
-## DevOps · 클라우드 · 인프라 <sub>(35)</sub>
+## DevOps · Đám mây · Hạ tầng <sub>(35)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)**<br>
   `shell` `terminal`
@@ -2284,7 +2284,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `android` `computer-science-students` `data-science` `devops` `education` `fellowship`
 
 <details>
-<summary><strong>나머지 15개 보기</strong></summary>
+<summary><strong>Hiện thêm 15 tài nguyên</strong></summary>
 
 - **[ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)**<br>
   `ci`
@@ -2334,9 +2334,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-selfhosted"></a>
-## 셀프 호스팅 · Docker · 홈랩 <sub>(20)</sub>
+## Tự lưu trữ · Docker · Homelab <sub>(20)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**<br>
   `selfhosted` `apps` `business`
@@ -2397,9 +2397,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `selfhosted` `curated`
 
 <a id="c-business-saas"></a>
-## 비즈니스 · SaaS <sub>(24)</sub>
+## Kinh doanh · SaaS <sub>(24)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)**<br>
   `architecture` `cto` `decision-making` `engineering-management` `hiring` `interviewing`
@@ -2461,7 +2461,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `saas` `boilerplate`
 
 <details>
-<summary><strong>나머지 4개 보기</strong></summary>
+<summary><strong>Hiện thêm 4 tài nguyên</strong></summary>
 
 - **[tyaga001/awesome-saas-boilerplates-and-starter-kits](https://github.com/tyaga001/awesome-saas-boilerplates-and-starter-kits)**<br>
   `starter` `saas`
@@ -2478,9 +2478,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-research"></a>
-## 연구 · 논문 <sub>(20)</sub>
+## Nghiên cứu · Bài báo <sub>(20)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)**<br>
   `computer-science` `courses`
@@ -2539,9 +2539,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `research` `bioinformatics`
 
 <a id="c-supply-chain"></a>
-## 공급망 · 라이선스 <sub>(19)</sub>
+## Chuỗi cung ứng · Giấy phép <sub>(19)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)**<br>
   `assembler` `cartridge` `dmg` `documentation` `game-boy-development` `game-development`
@@ -2600,9 +2600,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `sbom` `signing` `security`
 
 <a id="c-best-of"></a>
-## 베스트 순위 <sub>(5)</sub>
+## Bảng xếp hạng tốt nhất <sub>(5)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)**<br>
   `best-of` `python` `ml`
@@ -2620,9 +2620,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `best-of` `jupyter`
 
 <a id="c-starters"></a>
-## 스타터 · 템플릿 <sub>(12)</sub>
+## Dự án khởi đầu · Mẫu <sub>(12)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**<br>
   `font` `free-photos` `icon-font` `icons` `music` `patterns`
@@ -2657,9 +2657,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `nextjs` `react`
 
 <a id="c-public-sector"></a>
-## 공공 부문 <sub>(6)</sub>
+## Khu vực công <sub>(6)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)**<br>
   `app` `collection` `ios` `ipad` `iphone` `macos`
@@ -2680,9 +2680,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `eu` `government` `eupl`
 
 <a id="c-registries"></a>
-## 레지스트리 · 카탈로그 <sub>(14)</sub>
+## Đăng ký · Danh mục <sub>(14)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[Hugging Face Models](https://huggingface.co/models)**<br>
   `models` `ai` `registry` `api`
@@ -2727,9 +2727,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `search` `live` `github` `discovery`
 
 <a id="c-official-catalogs"></a>
-## 공식 카탈로그 <sub>(8)</sub>
+## Danh mục chính thức <sub>(8)</sub>
 
-**추천 자료**
+**Tài nguyên nổi bật**
 
 - **[CNCF Landscape](https://landscape.cncf.io)**<br>
   `cloud-native` `kubernetes` `architecture`

@@ -8,15 +8,15 @@
 
 | | |
 | --- | --- |
-| [![](https://flagcdn.com/24x18/gb.png) English](README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
-| [![](https://flagcdn.com/24x18/es.png) Español](README.es.md) | [![](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) |
-| [![](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) | [![](https://flagcdn.com/24x18/pt.png) Português](README.pt.md) |
-| [![](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) | [![](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) |
-| [![](https://flagcdn.com/24x18/tr.png) Türkçe](README.tr.md) | [![](https://flagcdn.com/24x18/jp.png) 日本語](README.ja.md) |
-| [![](https://flagcdn.com/24x18/kr.png) 한국어](README.ko.md) | [![](https://flagcdn.com/24x18/cn.png) 中文](README.zh.md) |
-| [![](https://flagcdn.com/24x18/sa.png) العربية](README.ar.md) | [![](https://flagcdn.com/24x18/in.png) हिन्दी](README.hi.md) |
-| [![](https://flagcdn.com/24x18/id.png) Bahasa Indonesia](README.id.md) | [![](https://flagcdn.com/24x18/vn.png) Tiếng Việt](README.vi.md) |
-| [![](https://flagcdn.com/24x18/ua.png) Українська](README.uk.md) | [![](https://flagcdn.com/24x18/se.png) Svenska](README.sv.md) |
+| [![](https://flagcdn.com/24x18/gb.png) English](README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](Languages/README.de.md) |
+| [![](https://flagcdn.com/24x18/es.png) Español](Languages/README.es.md) | [![](https://flagcdn.com/24x18/fr.png) Français](Languages/README.fr.md) |
+| [![](https://flagcdn.com/24x18/it.png) Italiano](Languages/README.it.md) | [![](https://flagcdn.com/24x18/pt.png) Português](Languages/README.pt.md) |
+| [![](https://flagcdn.com/24x18/nl.png) Nederlands](Languages/README.nl.md) | [![](https://flagcdn.com/24x18/pl.png) Polski](Languages/README.pl.md) |
+| [![](https://flagcdn.com/24x18/tr.png) Türkçe](Languages/README.tr.md) | [![](https://flagcdn.com/24x18/jp.png) 日本語](Languages/README.ja.md) |
+| [![](https://flagcdn.com/24x18/kr.png) 한국어](Languages/README.ko.md) | [![](https://flagcdn.com/24x18/cn.png) 中文](Languages/README.zh.md) |
+| [![](https://flagcdn.com/24x18/sa.png) العربية](Languages/README.ar.md) | [![](https://flagcdn.com/24x18/in.png) हिन्दी](Languages/README.hi.md) |
+| [![](https://flagcdn.com/24x18/id.png) Bahasa Indonesia](Languages/README.id.md) | [![](https://flagcdn.com/24x18/vn.png) Tiếng Việt](Languages/README.vi.md) |
+| [![](https://flagcdn.com/24x18/ua.png) Українська](Languages/README.uk.md) | [![](https://flagcdn.com/24x18/se.png) Svenska](Languages/README.sv.md) |
 
 </details>
 

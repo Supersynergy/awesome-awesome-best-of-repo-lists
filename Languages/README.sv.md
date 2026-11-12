@@ -1,6 +1,6 @@
 # Awesome Awesome Best of Repo Lists
 
-![Awesome Awesome Best of Repo Lists](assets/hero.png)
+![Awesome Awesome Best of Repo Lists](../assets/hero.png)
 
 
 <details>
@@ -8,7 +8,7 @@
 
 | | |
 | --- | --- |
-| [![](https://flagcdn.com/24x18/gb.png) English](README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
+| [![](https://flagcdn.com/24x18/gb.png) English](../README.md) | [![](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) |
 | [![](https://flagcdn.com/24x18/es.png) Español](README.es.md) | [![](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) |
 | [![](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) | [![](https://flagcdn.com/24x18/pt.png) Português](README.pt.md) |
 | [![](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) | [![](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) |
@@ -20,44 +20,44 @@
 
 </details>
 
-## Jelajahi daftar repositori terbaik
+## Upptäck de bästa repositorylistorna
 
-900 daftar dan sumber terbuka dalam 15 kategori.
+900 listor och resurser med öppen källkod i 15 kategorier.
 
-> Semua 900 tautan tersedia. Nama dan tag asli dipertahankan; deskripsi lengkap ada di katalog bahasa Inggris dan Jerman.
+> Alla 900 länkar ingår. Namn och taggar behålls i original; detaljerade beskrivningar finns i de engelska och tyska katalogerna.
 
-**Salin tautan repositori:**
+**Kopiera länken till repot:**
 
 ```text
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-**Data dan tautan:** [JSONL](data/sources.jsonl) · [URLs](data/urls.txt) · [Agent guide](CATALOG.md)
+**Data och länkar:** [JSONL](../data/sources.jsonl) · [URLs](../data/urls.txt) · [Agent guide](../CATALOG.md)
 
-## Kategori
+## Kategorier
 
-- [Daftar umum](#c-meta-meta) · 225
-- [AI · LLM · MCP · Agen](#c-ai-llm-mcp) · 225
-- [Bahasa dan ekosistem](#c-languages) · 157
-- [Keamanan · Privasi](#c-security-privacy) · 68
-- [Data · API · Scraping](#c-data-domains) · 62
-- [DevOps · Cloud · Infrastruktur](#c-devops) · 35
-- [Hosting sendiri · Docker · Homelab](#c-selfhosted) · 20
-- [Bisnis · SaaS](#c-business-saas) · 24
-- [Riset · Makalah](#c-research) · 20
-- [Rantai pasok · Lisensi](#c-supply-chain) · 19
-- [Peringkat terbaik](#c-best-of) · 5
-- [Starter · Templat](#c-starters) · 12
-- [Sektor publik](#c-public-sector) · 6
-- [Registri · Katalog](#c-registries) · 14
-- [Katalog resmi](#c-official-catalogs) · 8
+- [Allmänna listor](#c-meta-meta) · 225
+- [AI · LLM · MCP · Agenter](#c-ai-llm-mcp) · 225
+- [Språk och ekosystem](#c-languages) · 157
+- [Säkerhet · Integritet](#c-security-privacy) · 68
+- [Data · API:er · Skrapning](#c-data-domains) · 62
+- [DevOps · Moln · Infrastruktur](#c-devops) · 35
+- [Egen drift · Docker · Hemlabb](#c-selfhosted) · 20
+- [Affärer · SaaS](#c-business-saas) · 24
+- [Forskning · Artiklar](#c-research) · 20
+- [Leveranskedja · Licenser](#c-supply-chain) · 19
+- [Best-of-rankningar](#c-best-of) · 5
+- [Startprojekt · Mallar](#c-starters) · 12
+- [Offentlig sektor](#c-public-sector) · 6
+- [Register · Kataloger](#c-registries) · 14
+- [Officiella kataloger](#c-official-catalogs) · 8
 
 ---
 
 <a id="c-meta-meta"></a>
-## Daftar umum <sub>(225)</sub>
+## Allmänna listor <sub>(225)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**<br>
   `reimplement` `learning`
@@ -118,7 +118,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>Tampilkan 205 sumber lainnya</strong></summary>
+<summary><strong>Visa ytterligare 205 resurser</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -693,9 +693,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## AI · LLM · MCP · Agen <sub>(225)</sub>
+## AI · LLM · MCP · Agenter <sub>(225)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**<br>
   `agents` `reference` `security-warning`
@@ -758,7 +758,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>Tampilkan 205 sumber lainnya</strong></summary>
+<summary><strong>Visa ytterligare 205 resurser</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1359,9 +1359,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-languages"></a>
-## Bahasa dan ekosistem <sub>(157)</sub>
+## Språk och ekosystem <sub>(157)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[vinta/awesome-python](https://github.com/vinta/awesome-python)**<br>
   `python`
@@ -1423,7 +1423,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `electron` `desktop`
 
 <details>
-<summary><strong>Tampilkan 137 sumber lainnya</strong></summary>
+<summary><strong>Visa ytterligare 137 resurser</strong></summary>
 
 - **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)**<br>
   `awesome-lists` `awesome-swift` `ios` `linux` `swift` `swift-extensions`
@@ -1820,9 +1820,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-security-privacy"></a>
-## Keamanan · Privasi <sub>(68)</sub>
+## Säkerhet · Integritet <sub>(68)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**<br>
   `security`
@@ -1885,7 +1885,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `bugbounty` `bugbounty-blogs` `bugbounty-facebook` `bugbounty-writeups` `bugbounty-yahoo` `bugbountytips`
 
 <details>
-<summary><strong>Tampilkan 48 sumber lainnya</strong></summary>
+<summary><strong>Visa ytterligare 48 resurser</strong></summary>
 
 - **[onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)**<br>
   `courses` `infosec` `lab` `penetration-testing` `pentest` `security`
@@ -2032,9 +2032,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-data-domains"></a>
-## Data · API · Scraping <sub>(62)</sub>
+## Data · API:er · Skrapning <sub>(62)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**<br>
   `data` `datasets`
@@ -2096,7 +2096,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `geo` `geospatial` `geospatial-library` `geotools` `gis` `map`
 
 <details>
-<summary><strong>Tampilkan 42 sumber lainnya</strong></summary>
+<summary><strong>Visa ytterligare 42 resurser</strong></summary>
 
 - **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)**<br>
   `audio` `visualization`
@@ -2220,9 +2220,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-devops"></a>
-## DevOps · Cloud · Infrastruktur <sub>(35)</sub>
+## DevOps · Moln · Infrastruktur <sub>(35)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)**<br>
   `shell` `terminal`
@@ -2284,7 +2284,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `android` `computer-science-students` `data-science` `devops` `education` `fellowship`
 
 <details>
-<summary><strong>Tampilkan 15 sumber lainnya</strong></summary>
+<summary><strong>Visa ytterligare 15 resurser</strong></summary>
 
 - **[ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)**<br>
   `ci`
@@ -2334,9 +2334,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-selfhosted"></a>
-## Hosting sendiri · Docker · Homelab <sub>(20)</sub>
+## Egen drift · Docker · Hemlabb <sub>(20)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**<br>
   `selfhosted` `apps` `business`
@@ -2397,9 +2397,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `selfhosted` `curated`
 
 <a id="c-business-saas"></a>
-## Bisnis · SaaS <sub>(24)</sub>
+## Affärer · SaaS <sub>(24)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)**<br>
   `architecture` `cto` `decision-making` `engineering-management` `hiring` `interviewing`
@@ -2461,7 +2461,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `saas` `boilerplate`
 
 <details>
-<summary><strong>Tampilkan 4 sumber lainnya</strong></summary>
+<summary><strong>Visa ytterligare 4 resurser</strong></summary>
 
 - **[tyaga001/awesome-saas-boilerplates-and-starter-kits](https://github.com/tyaga001/awesome-saas-boilerplates-and-starter-kits)**<br>
   `starter` `saas`
@@ -2478,9 +2478,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-research"></a>
-## Riset · Makalah <sub>(20)</sub>
+## Forskning · Artiklar <sub>(20)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)**<br>
   `computer-science` `courses`
@@ -2539,9 +2539,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `research` `bioinformatics`
 
 <a id="c-supply-chain"></a>
-## Rantai pasok · Lisensi <sub>(19)</sub>
+## Leveranskedja · Licenser <sub>(19)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)**<br>
   `assembler` `cartridge` `dmg` `documentation` `game-boy-development` `game-development`
@@ -2600,9 +2600,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `sbom` `signing` `security`
 
 <a id="c-best-of"></a>
-## Peringkat terbaik <sub>(5)</sub>
+## Best-of-rankningar <sub>(5)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)**<br>
   `best-of` `python` `ml`
@@ -2620,9 +2620,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `best-of` `jupyter`
 
 <a id="c-starters"></a>
-## Starter · Templat <sub>(12)</sub>
+## Startprojekt · Mallar <sub>(12)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**<br>
   `font` `free-photos` `icon-font` `icons` `music` `patterns`
@@ -2657,9 +2657,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `nextjs` `react`
 
 <a id="c-public-sector"></a>
-## Sektor publik <sub>(6)</sub>
+## Offentlig sektor <sub>(6)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)**<br>
   `app` `collection` `ios` `ipad` `iphone` `macos`
@@ -2680,9 +2680,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `eu` `government` `eupl`
 
 <a id="c-registries"></a>
-## Registri · Katalog <sub>(14)</sub>
+## Register · Kataloger <sub>(14)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[Hugging Face Models](https://huggingface.co/models)**<br>
   `models` `ai` `registry` `api`
@@ -2727,9 +2727,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `search` `live` `github` `discovery`
 
 <a id="c-official-catalogs"></a>
-## Katalog resmi <sub>(8)</sub>
+## Officiella kataloger <sub>(8)</sub>
 
-**Sumber pilihan**
+**Utvalda resurser**
 
 - **[CNCF Landscape](https://landscape.cncf.io)**<br>
   `cloud-native` `kubernetes` `architecture`
