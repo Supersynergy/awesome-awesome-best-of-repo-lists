@@ -20,6 +20,11 @@
 
 </details>
 
+**🔎 Discovery:** [🧩 Awesome Skills](https://github.com/Supersynergy/awesome-skills) · [💬 Awesome Prompts](https://github.com/Supersynergy/awesome-prompts) · [⭐ gitstars.io](https://gitstars.io/) · [Trending](https://gitstars.io/trending) · [Explore](https://gitstars.io/explore)
+
+**🧭 Meta:** [Awesome](https://github.com/sindresorhus/awesome) · [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) · [Best-of Lists](https://github.com/best-of-lists/best-of) · [Awesome Open Source](https://awesomeopensource.com/) · [GitHub Topics](https://github.com/topics/awesome)
+
+
 **🧭 Entdecken:** [Alle Kategorien](#inhalt) · [🤖 KI & Agenten](#c-ai-llm-mcp) · [💻 Sprachen](#c-languages) · [🛡️ Security](#c-security-privacy) · [🏠 Self-hosted](#c-selfhosted) · [🏆 Best-of](#c-best-of)
 
 **🔗 Repository-Link kopieren:**
@@ -31,14 +36,14 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 **🧰 Daten & Werkzeuge:** [JSONL-Katalog](../data/sources.jsonl) · [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) · [Anleitung für Agenten](../CATALOG.md)
 
 <p align="center">
-  <b>900 kuratierte Awesome-Listen, Best-of-Rankings und Meta-Indizes — jeder Eintrag ist selbst ein Meta-Filter für eine Domain.</b>
+  <b>924 Katalogeinträge zu Awesome-Listen, Best-of-Rankings und Meta-Indizes aus dem Open-Source-Ökosystem.</b>
 </p>
 
 
 Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosystem: von `sindresorhus/awesome` über `awesome-selfhosted` bis zu spezialisierten Listen für AI/LLM, Security, Rust oder Remote-Work.
 
 
-**✨ So nutzen:** Kategorie wählen, bis zu 20 Ressourcen direkt ansehen und bei Bedarf weitere aufklappen. Für die Suche in allen 900 URLs öffne [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) und nutze die Suchfunktion deines Browsers. Sterne, Lizenzen und Aktivitätsdaten sind Momentaufnahmen aus der GitHub API.
+**✨ So nutzen:** Kategorie wählen, bis zu 20 Ressourcen direkt ansehen und bei Bedarf weitere aufklappen. Für die Suche in allen 924 URLs öffne [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) und nutze die Suchfunktion deines Browsers. Sterne, Lizenzen und Aktivitätsdaten sind Momentaufnahmen aus der GitHub API.
 
 
 <details>
@@ -66,7 +71,7 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
 
 | Kategorie | Kategorie |
 | --- | --- |
-| [Meta-Listen & Querschnitt](#c-meta-meta) · 225 | [AI · LLM · MCP · Agenten](#c-ai-llm-mcp) · 225 |
+| [Meta-Listen & Querschnitt](#c-meta-meta) · 228 | [AI · LLM · MCP · Agenten](#c-ai-llm-mcp) · 246 |
 | [Sprachen & Ökosysteme](#c-languages) · 157 | [Security · Privacy](#c-security-privacy) · 68 |
 | [Daten · APIs · Scraping](#c-data-domains) · 62 | [DevOps · Cloud · Infrastruktur](#c-devops) · 35 |
 | [Selfhosted · Docker · Homelab](#c-selfhosted) · 20 | [Business · SaaS](#c-business-saas) · 24 |
@@ -78,7 +83,7 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
 ---
 
 <a id="c-meta-meta"></a>
-## 🧭 1. Meta-Listen & Querschnitt <sub>(225)</sub>
+## 🧭 1. Meta-Listen & Querschnitt <sub>(228)</sub>
 
 *Listen von Listen, beste Übersichten und Such-Indizes — der Einstieg in jede Domain.*
 
@@ -156,7 +161,7 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
   TensorFlow - A curated list of dedicated resources https://tensorflow.org
 
 <details>
-<summary><strong>📂 205 weitere Ressourcen anzeigen</strong></summary>
+<summary><strong>📂 208 weitere Ressourcen anzeigen</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   17.3k★ `MIT` aktiv 2026-02 · `vite` `vitejs` — ⚡️ A curated list of awesome things related to Vite.js
@@ -885,10 +890,19 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
   `trending` `momentum` `api`<br>
   Query-unabhaengiges Velocity-Board; q = window (24h|7d|30d); sort/provider/language cursor-paginiert den ganzen Index
 
+- **[szabgab/awesome-lists](https://github.com/szabgab/awesome-lists)**<br>
+  `awesome` `index` `discovery` — An index of awesome lists across topics.
+
+- **[Awesome Open Source](https://awesomeopensource.com/)**<br>
+  `discovery` `catalog` `open-source` — Search and browse open-source projects by category and language.
+
+- **[GitHub awesome topic](https://github.com/topics/awesome)**<br>
+  `github` `awesome` `discovery` — Explore GitHub repositories tagged awesome.
+
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 🤖 2. AI · LLM · MCP · Agenten <sub>(225)</sub>
+## 🤖 2. AI · LLM · MCP · Agenten <sub>(246)</sub>
 
 *LLM-Tools, MCP-Server, Agent-Frameworks, RAG, GenAI-Stacks und Coding-Assistenten-Ökosysteme.*
 
@@ -969,7 +983,7 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
   A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 
 <details>
-<summary><strong>📂 205 weitere Ressourcen anzeigen</strong></summary>
+<summary><strong>📂 226 weitere Ressourcen anzeigen</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   19.2k★ `CC0-1.0` aktiv 2026-10 · `deep-learning` `language` `machine-learning`<br>
@@ -1742,6 +1756,69 @@ Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Sta
 
 - **[Hugging Face Trending Papers](https://huggingface.co/papers/trending)**<br>
   `papers` `research` — Nachfolger Papers with Code (Redirect seit 2025-07)
+
+- **[Supersynergy/awesome-skills](https://github.com/Supersynergy/awesome-skills)**<br>
+  `skills` `agents` `index` — Curated index of AI agent skills, collections and official sources.
+
+- **[Supersynergy/awesome-prompts](https://github.com/Supersynergy/awesome-prompts)**<br>
+  `prompts` `index` — Curated index of prompt libraries, guides and cookbooks.
+
+- **[anthropics/skills](https://github.com/anthropics/skills)**<br>
+  `skills` `agents` `official` — Anthropic public Agent Skills repository.
+
+- **[openai/skills](https://github.com/openai/skills)**<br>
+  `skills` `codex` `official` — OpenAI skills catalog for Codex.
+
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)**<br>
+  `skills` `specification` `agents` — Agent Skills open format specification and documentation.
+
+- **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)**<br>
+  `skills` `agents` `official` — Vercel official agent skills collection.
+
+- **[github/awesome-copilot](https://github.com/github/awesome-copilot)**<br>
+  `skills` `prompts` `copilot` — Community prompts, instructions, agents and skills for GitHub Copilot.
+
+- **[sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)**<br>
+  `skills` `agents` `catalog` — Agent skill collection with local catalog and selection tools.
+
+- **[gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)**<br>
+  `skills` `gamedev` `agents` — Game development agent skills across multiple engines.
+
+- **[LLMSecurity/awesome-agent-skills-security](https://github.com/LLMSecurity/awesome-agent-skills-security)**<br>
+  `skills` `security` `agents` — Resources on attacks, defenses and evaluations for agent skills.
+
+- **[f/prompts.chat](https://github.com/f/prompts.chat)**<br>
+  `prompts` `community` `catalog` — Community prompt discovery and sharing, formerly Awesome ChatGPT Prompts.
+
+- **[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)**<br>
+  `prompts` `guide` `llm` — Guides, papers and lessons for prompt and context engineering.
+
+- **[NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering)**<br>
+  `prompts` `notebooks` `guide` — Hands-on notebooks for prompt engineering techniques.
+
+- **[brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)**<br>
+  `prompts` `guide` `historical` — Historical prompt engineering notes; last pushed in 2023.
+
+- **[langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts)**<br>
+  `prompts` `claude` `collection` — Claude prompt collection.
+
+- **[browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts)**<br>
+  `prompts` `browser` `automation` — Prompt examples for browser automation.
+
+- **[ai-boost/awesome-image-video-prompts](https://github.com/ai-boost/awesome-image-video-prompts)**<br>
+  `prompts` `image` `video` — Prompt examples and sources for image and video generation.
+
+- **[openai/openai-cookbook](https://github.com/openai/openai-cookbook)**<br>
+  `prompts` `cookbook` `openai` — Examples and guides for the OpenAI API.
+
+- **[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)**<br>
+  `prompts` `cookbook` `anthropic` — Notebooks and recipes for Claude.
+
+- **[google-gemini/cookbook](https://github.com/google-gemini/cookbook)**<br>
+  `prompts` `cookbook` `gemini` — Examples and guides for the Gemini API.
+
+- **[snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)**<br>
+  `prompts` `guide` `llm` — Curated resources and tools for GPT prompt engineering.
 
 </details>
 

@@ -20,11 +20,16 @@
 
 </details>
 
+**🔎 Discovery:** [🧩 Awesome Skills](https://github.com/Supersynergy/awesome-skills) · [💬 Awesome Prompts](https://github.com/Supersynergy/awesome-prompts) · [⭐ gitstars.io](https://gitstars.io/) · [Trending](https://gitstars.io/trending) · [Explore](https://gitstars.io/explore)
+
+**🧭 Meta:** [Awesome](https://github.com/sindresorhus/awesome) · [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) · [Best-of Lists](https://github.com/best-of-lists/best-of) · [Awesome Open Source](https://awesomeopensource.com/) · [GitHub Topics](https://github.com/topics/awesome)
+
+
 ## Odkryj najlepsze listy repozytoriów
 
-900 list i zasobów open source w 15 kategoriach.
+924 list i zasobów open source w 15 kategoriach.
 
-> Uwzględniono 900 linków. Oryginalne nazwy i tagi pozostają bez zmian; szczegółowe opisy są w katalogach angielskim i niemieckim.
+> Uwzględniono 924 linków. Oryginalne nazwy i tagi pozostają bez zmian; szczegółowe opisy są w katalogach angielskim i niemieckim.
 
 **Skopiuj link do repozytorium:**
 
@@ -36,8 +41,8 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 
 ## Kategorie
 
-- [Listy ogólne](#c-meta-meta) · 225
-- [AI · LLM · MCP · Agenci](#c-ai-llm-mcp) · 225
+- [Listy ogólne](#c-meta-meta) · 228
+- [AI · LLM · MCP · Agenci](#c-ai-llm-mcp) · 246
 - [Języki i ekosystemy](#c-languages) · 157
 - [Bezpieczeństwo · Prywatność](#c-security-privacy) · 68
 - [Dane · API · Scraping](#c-data-domains) · 62
@@ -55,7 +60,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ---
 
 <a id="c-meta-meta"></a>
-## 🧭 Listy ogólne <sub>(225)</sub>
+## 🧭 Listy ogólne <sub>(228)</sub>
 
 **⭐ Polecane zasoby**
 
@@ -118,7 +123,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>📂 Pokaż jeszcze 205 zasobów</strong></summary>
+<summary><strong>📂 Pokaż jeszcze 208 zasobów</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -690,10 +695,19 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[gitstars /trending](https://gitstars.io/trending)**<br>
   `trending` `momentum` `api` `unauth`
 
+- **[szabgab/awesome-lists](https://github.com/szabgab/awesome-lists)**<br>
+  `awesome` `index` `discovery`
+
+- **[Awesome Open Source](https://awesomeopensource.com/)**<br>
+  `discovery` `catalog` `open-source`
+
+- **[GitHub awesome topic](https://github.com/topics/awesome)**<br>
+  `github` `awesome` `discovery`
+
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 🤖 AI · LLM · MCP · Agenci <sub>(225)</sub>
+## 🤖 AI · LLM · MCP · Agenci <sub>(246)</sub>
 
 **⭐ Polecane zasoby**
 
@@ -758,7 +772,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>📂 Pokaż jeszcze 205 zasobów</strong></summary>
+<summary><strong>📂 Pokaż jeszcze 226 zasobów</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1355,6 +1369,69 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 
 - **[MCP Registry (offiziell)](https://registry.modelcontextprotocol.io)**<br>
   `mcp` `registry` `api`
+
+- **[Supersynergy/awesome-skills](https://github.com/Supersynergy/awesome-skills)**<br>
+  `skills` `agents` `index`
+
+- **[Supersynergy/awesome-prompts](https://github.com/Supersynergy/awesome-prompts)**<br>
+  `prompts` `index`
+
+- **[anthropics/skills](https://github.com/anthropics/skills)**<br>
+  `skills` `agents` `official`
+
+- **[openai/skills](https://github.com/openai/skills)**<br>
+  `skills` `codex` `official`
+
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)**<br>
+  `skills` `specification` `agents`
+
+- **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)**<br>
+  `skills` `agents` `official`
+
+- **[github/awesome-copilot](https://github.com/github/awesome-copilot)**<br>
+  `skills` `prompts` `copilot`
+
+- **[sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)**<br>
+  `skills` `agents` `catalog`
+
+- **[gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)**<br>
+  `skills` `gamedev` `agents`
+
+- **[LLMSecurity/awesome-agent-skills-security](https://github.com/LLMSecurity/awesome-agent-skills-security)**<br>
+  `skills` `security` `agents`
+
+- **[f/prompts.chat](https://github.com/f/prompts.chat)**<br>
+  `prompts` `community` `catalog`
+
+- **[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)**<br>
+  `prompts` `guide` `llm`
+
+- **[NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering)**<br>
+  `prompts` `notebooks` `guide`
+
+- **[brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)**<br>
+  `prompts` `guide` `historical`
+
+- **[langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts)**<br>
+  `prompts` `claude` `collection`
+
+- **[browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts)**<br>
+  `prompts` `browser` `automation`
+
+- **[ai-boost/awesome-image-video-prompts](https://github.com/ai-boost/awesome-image-video-prompts)**<br>
+  `prompts` `image` `video`
+
+- **[openai/openai-cookbook](https://github.com/openai/openai-cookbook)**<br>
+  `prompts` `cookbook` `openai`
+
+- **[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)**<br>
+  `prompts` `cookbook` `anthropic`
+
+- **[google-gemini/cookbook](https://github.com/google-gemini/cookbook)**<br>
+  `prompts` `cookbook` `gemini`
+
+- **[snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)**<br>
+  `prompts` `guide` `llm`
 
 </details>
 

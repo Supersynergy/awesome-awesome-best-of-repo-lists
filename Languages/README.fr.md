@@ -20,11 +20,16 @@
 
 </details>
 
+**🔎 Discovery:** [🧩 Awesome Skills](https://github.com/Supersynergy/awesome-skills) · [💬 Awesome Prompts](https://github.com/Supersynergy/awesome-prompts) · [⭐ gitstars.io](https://gitstars.io/) · [Trending](https://gitstars.io/trending) · [Explore](https://gitstars.io/explore)
+
+**🧭 Meta:** [Awesome](https://github.com/sindresorhus/awesome) · [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) · [Best-of Lists](https://github.com/best-of-lists/best-of) · [Awesome Open Source](https://awesomeopensource.com/) · [GitHub Topics](https://github.com/topics/awesome)
+
+
 ## Explorez les meilleures listes de dépôts
 
-900 listes et ressources open source dans 15 catégories.
+924 listes et ressources open source dans 15 catégories.
 
-> Les 900 liens sont inclus. Les noms et étiquettes d’origine sont conservés ; les descriptions détaillées figurent dans les catalogues anglais et allemand.
+> Les 924 liens sont inclus. Les noms et étiquettes d’origine sont conservés ; les descriptions détaillées figurent dans les catalogues anglais et allemand.
 
 **Copier le lien du dépôt:**
 
@@ -36,8 +41,8 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 
 ## Catégories
 
-- [Listes générales](#c-meta-meta) · 225
-- [IA · LLM · MCP · Agents](#c-ai-llm-mcp) · 225
+- [Listes générales](#c-meta-meta) · 228
+- [IA · LLM · MCP · Agents](#c-ai-llm-mcp) · 246
 - [Langages et écosystèmes](#c-languages) · 157
 - [Sécurité · Confidentialité](#c-security-privacy) · 68
 - [Données · API · Scraping](#c-data-domains) · 62
@@ -55,7 +60,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ---
 
 <a id="c-meta-meta"></a>
-## 🧭 Listes générales <sub>(225)</sub>
+## 🧭 Listes générales <sub>(228)</sub>
 
 **⭐ Ressources à découvrir**
 
@@ -118,7 +123,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>📂 Afficher 205 ressources supplémentaires</strong></summary>
+<summary><strong>📂 Afficher 208 ressources supplémentaires</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -690,10 +695,19 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[gitstars /trending](https://gitstars.io/trending)**<br>
   `trending` `momentum` `api` `unauth`
 
+- **[szabgab/awesome-lists](https://github.com/szabgab/awesome-lists)**<br>
+  `awesome` `index` `discovery`
+
+- **[Awesome Open Source](https://awesomeopensource.com/)**<br>
+  `discovery` `catalog` `open-source`
+
+- **[GitHub awesome topic](https://github.com/topics/awesome)**<br>
+  `github` `awesome` `discovery`
+
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 🤖 IA · LLM · MCP · Agents <sub>(225)</sub>
+## 🤖 IA · LLM · MCP · Agents <sub>(246)</sub>
 
 **⭐ Ressources à découvrir**
 
@@ -758,7 +772,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>📂 Afficher 205 ressources supplémentaires</strong></summary>
+<summary><strong>📂 Afficher 226 ressources supplémentaires</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1355,6 +1369,69 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 
 - **[MCP Registry (offiziell)](https://registry.modelcontextprotocol.io)**<br>
   `mcp` `registry` `api`
+
+- **[Supersynergy/awesome-skills](https://github.com/Supersynergy/awesome-skills)**<br>
+  `skills` `agents` `index`
+
+- **[Supersynergy/awesome-prompts](https://github.com/Supersynergy/awesome-prompts)**<br>
+  `prompts` `index`
+
+- **[anthropics/skills](https://github.com/anthropics/skills)**<br>
+  `skills` `agents` `official`
+
+- **[openai/skills](https://github.com/openai/skills)**<br>
+  `skills` `codex` `official`
+
+- **[agentskills/agentskills](https://github.com/agentskills/agentskills)**<br>
+  `skills` `specification` `agents`
+
+- **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)**<br>
+  `skills` `agents` `official`
+
+- **[github/awesome-copilot](https://github.com/github/awesome-copilot)**<br>
+  `skills` `prompts` `copilot`
+
+- **[sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)**<br>
+  `skills` `agents` `catalog`
+
+- **[gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)**<br>
+  `skills` `gamedev` `agents`
+
+- **[LLMSecurity/awesome-agent-skills-security](https://github.com/LLMSecurity/awesome-agent-skills-security)**<br>
+  `skills` `security` `agents`
+
+- **[f/prompts.chat](https://github.com/f/prompts.chat)**<br>
+  `prompts` `community` `catalog`
+
+- **[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)**<br>
+  `prompts` `guide` `llm`
+
+- **[NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering)**<br>
+  `prompts` `notebooks` `guide`
+
+- **[brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)**<br>
+  `prompts` `guide` `historical`
+
+- **[langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts)**<br>
+  `prompts` `claude` `collection`
+
+- **[browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts)**<br>
+  `prompts` `browser` `automation`
+
+- **[ai-boost/awesome-image-video-prompts](https://github.com/ai-boost/awesome-image-video-prompts)**<br>
+  `prompts` `image` `video`
+
+- **[openai/openai-cookbook](https://github.com/openai/openai-cookbook)**<br>
+  `prompts` `cookbook` `openai`
+
+- **[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)**<br>
+  `prompts` `cookbook` `anthropic`
+
+- **[google-gemini/cookbook](https://github.com/google-gemini/cookbook)**<br>
+  `prompts` `cookbook` `gemini`
+
+- **[snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)**<br>
+  `prompts` `guide` `llm`
 
 </details>
 
