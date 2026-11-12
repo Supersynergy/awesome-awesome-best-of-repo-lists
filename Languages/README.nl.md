@@ -4,7 +4,7 @@
 
 
 <details>
-<summary><strong>Languages · Sprachen · 18</strong></summary>
+<summary><strong>🌍 Languages · Sprachen · 18</strong></summary>
 
 | | |
 | --- | --- |
@@ -55,9 +55,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ---
 
 <a id="c-meta-meta"></a>
-## Algemene lijsten <sub>(225)</sub>
+## 🧭 Algemene lijsten <sub>(225)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**<br>
   `reimplement` `learning`
@@ -118,7 +118,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>Toon nog 205 bronnen</strong></summary>
+<summary><strong>📂 Toon nog 205 bronnen</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -693,9 +693,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## AI · LLM · MCP · Agenten <sub>(225)</sub>
+## 🤖 AI · LLM · MCP · Agenten <sub>(225)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**<br>
   `agents` `reference` `security-warning`
@@ -758,7 +758,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>Toon nog 205 bronnen</strong></summary>
+<summary><strong>📂 Toon nog 205 bronnen</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1359,9 +1359,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-languages"></a>
-## Talen en ecosystemen <sub>(157)</sub>
+## 💻 Talen en ecosystemen <sub>(157)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[vinta/awesome-python](https://github.com/vinta/awesome-python)**<br>
   `python`
@@ -1423,7 +1423,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `electron` `desktop`
 
 <details>
-<summary><strong>Toon nog 137 bronnen</strong></summary>
+<summary><strong>📂 Toon nog 137 bronnen</strong></summary>
 
 - **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)**<br>
   `awesome-lists` `awesome-swift` `ios` `linux` `swift` `swift-extensions`
@@ -1820,9 +1820,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-security-privacy"></a>
-## Beveiliging · Privacy <sub>(68)</sub>
+## 🛡️ Beveiliging · Privacy <sub>(68)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**<br>
   `security`
@@ -1885,7 +1885,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `bugbounty` `bugbounty-blogs` `bugbounty-facebook` `bugbounty-writeups` `bugbounty-yahoo` `bugbountytips`
 
 <details>
-<summary><strong>Toon nog 48 bronnen</strong></summary>
+<summary><strong>📂 Toon nog 48 bronnen</strong></summary>
 
 - **[onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)**<br>
   `courses` `infosec` `lab` `penetration-testing` `pentest` `security`
@@ -2032,9 +2032,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-data-domains"></a>
-## Data · API’s · Scraping <sub>(62)</sub>
+## 📊 Data · API’s · Scraping <sub>(62)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**<br>
   `data` `datasets`
@@ -2096,7 +2096,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `geo` `geospatial` `geospatial-library` `geotools` `gis` `map`
 
 <details>
-<summary><strong>Toon nog 42 bronnen</strong></summary>
+<summary><strong>📂 Toon nog 42 bronnen</strong></summary>
 
 - **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)**<br>
   `audio` `visualization`
@@ -2220,9 +2220,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-devops"></a>
-## DevOps · Cloud · Infrastructuur <sub>(35)</sub>
+## ☁️ DevOps · Cloud · Infrastructuur <sub>(35)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)**<br>
   `shell` `terminal`
@@ -2284,7 +2284,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `android` `computer-science-students` `data-science` `devops` `education` `fellowship`
 
 <details>
-<summary><strong>Toon nog 15 bronnen</strong></summary>
+<summary><strong>📂 Toon nog 15 bronnen</strong></summary>
 
 - **[ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)**<br>
   `ci`
@@ -2334,9 +2334,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-selfhosted"></a>
-## Zelf hosten · Docker · Homelab <sub>(20)</sub>
+## 🏠 Zelf hosten · Docker · Homelab <sub>(20)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**<br>
   `selfhosted` `apps` `business`
@@ -2397,9 +2397,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `selfhosted` `curated`
 
 <a id="c-business-saas"></a>
-## Zakelijk · SaaS <sub>(24)</sub>
+## 💼 Zakelijk · SaaS <sub>(24)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)**<br>
   `architecture` `cto` `decision-making` `engineering-management` `hiring` `interviewing`
@@ -2461,7 +2461,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `saas` `boilerplate`
 
 <details>
-<summary><strong>Toon nog 4 bronnen</strong></summary>
+<summary><strong>📂 Toon nog 4 bronnen</strong></summary>
 
 - **[tyaga001/awesome-saas-boilerplates-and-starter-kits](https://github.com/tyaga001/awesome-saas-boilerplates-and-starter-kits)**<br>
   `starter` `saas`
@@ -2478,9 +2478,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-research"></a>
-## Onderzoek · Artikelen <sub>(20)</sub>
+## 🔬 Onderzoek · Artikelen <sub>(20)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)**<br>
   `computer-science` `courses`
@@ -2539,9 +2539,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `research` `bioinformatics`
 
 <a id="c-supply-chain"></a>
-## Toeleveringsketen · Licenties <sub>(19)</sub>
+## 📦 Toeleveringsketen · Licenties <sub>(19)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)**<br>
   `assembler` `cartridge` `dmg` `documentation` `game-boy-development` `game-development`
@@ -2600,9 +2600,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `sbom` `signing` `security`
 
 <a id="c-best-of"></a>
-## Best-of-ranglijsten <sub>(5)</sub>
+## 🏆 Best-of-ranglijsten <sub>(5)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)**<br>
   `best-of` `python` `ml`
@@ -2620,9 +2620,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `best-of` `jupyter`
 
 <a id="c-starters"></a>
-## Starters en sjablonen <sub>(12)</sub>
+## 🚀 Starters en sjablonen <sub>(12)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**<br>
   `font` `free-photos` `icon-font` `icons` `music` `patterns`
@@ -2657,9 +2657,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `nextjs` `react`
 
 <a id="c-public-sector"></a>
-## Publieke sector <sub>(6)</sub>
+## 🏛️ Publieke sector <sub>(6)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)**<br>
   `app` `collection` `ios` `ipad` `iphone` `macos`
@@ -2680,9 +2680,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `eu` `government` `eupl`
 
 <a id="c-registries"></a>
-## Registers en catalogi <sub>(14)</sub>
+## 🗂️ Registers en catalogi <sub>(14)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[Hugging Face Models](https://huggingface.co/models)**<br>
   `models` `ai` `registry` `api`
@@ -2727,9 +2727,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `search` `live` `github` `discovery`
 
 <a id="c-official-catalogs"></a>
-## Officiële catalogi <sub>(8)</sub>
+## 📚 Officiële catalogi <sub>(8)</sub>
 
-**Uitgelichte bronnen**
+**⭐ Uitgelichte bronnen**
 
 - **[CNCF Landscape](https://landscape.cncf.io)**<br>
   `cloud-native` `kubernetes` `architecture`

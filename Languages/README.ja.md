@@ -4,7 +4,7 @@
 
 
 <details>
-<summary><strong>Languages · Sprachen · 18</strong></summary>
+<summary><strong>🌍 Languages · Sprachen · 18</strong></summary>
 
 | | |
 | --- | --- |
@@ -55,9 +55,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ---
 
 <a id="c-meta-meta"></a>
-## 総合リスト <sub>(225)</sub>
+## 🧭 総合リスト <sub>(225)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**<br>
   `reimplement` `learning`
@@ -118,7 +118,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>他の 205 件を表示</strong></summary>
+<summary><strong>📂 他の 205 件を表示</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -693,9 +693,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## AI · LLM · MCP · エージェント <sub>(225)</sub>
+## 🤖 AI · LLM · MCP · エージェント <sub>(225)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**<br>
   `agents` `reference` `security-warning`
@@ -758,7 +758,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>他の 205 件を表示</strong></summary>
+<summary><strong>📂 他の 205 件を表示</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1359,9 +1359,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-languages"></a>
-## 言語とエコシステム <sub>(157)</sub>
+## 💻 言語とエコシステム <sub>(157)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[vinta/awesome-python](https://github.com/vinta/awesome-python)**<br>
   `python`
@@ -1423,7 +1423,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `electron` `desktop`
 
 <details>
-<summary><strong>他の 137 件を表示</strong></summary>
+<summary><strong>📂 他の 137 件を表示</strong></summary>
 
 - **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)**<br>
   `awesome-lists` `awesome-swift` `ios` `linux` `swift` `swift-extensions`
@@ -1820,9 +1820,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-security-privacy"></a>
-## セキュリティ · プライバシー <sub>(68)</sub>
+## 🛡️ セキュリティ · プライバシー <sub>(68)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**<br>
   `security`
@@ -1885,7 +1885,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `bugbounty` `bugbounty-blogs` `bugbounty-facebook` `bugbounty-writeups` `bugbounty-yahoo` `bugbountytips`
 
 <details>
-<summary><strong>他の 48 件を表示</strong></summary>
+<summary><strong>📂 他の 48 件を表示</strong></summary>
 
 - **[onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)**<br>
   `courses` `infosec` `lab` `penetration-testing` `pentest` `security`
@@ -2032,9 +2032,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-data-domains"></a>
-## データ · API · スクレイピング <sub>(62)</sub>
+## 📊 データ · API · スクレイピング <sub>(62)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**<br>
   `data` `datasets`
@@ -2096,7 +2096,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `geo` `geospatial` `geospatial-library` `geotools` `gis` `map`
 
 <details>
-<summary><strong>他の 42 件を表示</strong></summary>
+<summary><strong>📂 他の 42 件を表示</strong></summary>
 
 - **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)**<br>
   `audio` `visualization`
@@ -2220,9 +2220,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-devops"></a>
-## DevOps · クラウド · インフラ <sub>(35)</sub>
+## ☁️ DevOps · クラウド · インフラ <sub>(35)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)**<br>
   `shell` `terminal`
@@ -2284,7 +2284,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `android` `computer-science-students` `data-science` `devops` `education` `fellowship`
 
 <details>
-<summary><strong>他の 15 件を表示</strong></summary>
+<summary><strong>📂 他の 15 件を表示</strong></summary>
 
 - **[ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)**<br>
   `ci`
@@ -2334,9 +2334,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-selfhosted"></a>
-## セルフホスト · Docker · ホームラボ <sub>(20)</sub>
+## 🏠 セルフホスト · Docker · ホームラボ <sub>(20)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**<br>
   `selfhosted` `apps` `business`
@@ -2397,9 +2397,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `selfhosted` `curated`
 
 <a id="c-business-saas"></a>
-## ビジネス · SaaS <sub>(24)</sub>
+## 💼 ビジネス · SaaS <sub>(24)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)**<br>
   `architecture` `cto` `decision-making` `engineering-management` `hiring` `interviewing`
@@ -2461,7 +2461,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `saas` `boilerplate`
 
 <details>
-<summary><strong>他の 4 件を表示</strong></summary>
+<summary><strong>📂 他の 4 件を表示</strong></summary>
 
 - **[tyaga001/awesome-saas-boilerplates-and-starter-kits](https://github.com/tyaga001/awesome-saas-boilerplates-and-starter-kits)**<br>
   `starter` `saas`
@@ -2478,9 +2478,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-research"></a>
-## 研究 · 論文 <sub>(20)</sub>
+## 🔬 研究 · 論文 <sub>(20)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)**<br>
   `computer-science` `courses`
@@ -2539,9 +2539,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `research` `bioinformatics`
 
 <a id="c-supply-chain"></a>
-## サプライチェーン · ライセンス <sub>(19)</sub>
+## 📦 サプライチェーン · ライセンス <sub>(19)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)**<br>
   `assembler` `cartridge` `dmg` `documentation` `game-boy-development` `game-development`
@@ -2600,9 +2600,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `sbom` `signing` `security`
 
 <a id="c-best-of"></a>
-## ベストランキング <sub>(5)</sub>
+## 🏆 ベストランキング <sub>(5)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)**<br>
   `best-of` `python` `ml`
@@ -2620,9 +2620,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `best-of` `jupyter`
 
 <a id="c-starters"></a>
-## スターター · テンプレート <sub>(12)</sub>
+## 🚀 スターター · テンプレート <sub>(12)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**<br>
   `font` `free-photos` `icon-font` `icons` `music` `patterns`
@@ -2657,9 +2657,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `nextjs` `react`
 
 <a id="c-public-sector"></a>
-## 公共部門 <sub>(6)</sub>
+## 🏛️ 公共部門 <sub>(6)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)**<br>
   `app` `collection` `ios` `ipad` `iphone` `macos`
@@ -2680,9 +2680,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `eu` `government` `eupl`
 
 <a id="c-registries"></a>
-## レジストリ · カタログ <sub>(14)</sub>
+## 🗂️ レジストリ · カタログ <sub>(14)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[Hugging Face Models](https://huggingface.co/models)**<br>
   `models` `ai` `registry` `api`
@@ -2727,9 +2727,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `search` `live` `github` `discovery`
 
 <a id="c-official-catalogs"></a>
-## 公式カタログ <sub>(8)</sub>
+## 📚 公式カタログ <sub>(8)</sub>
 
-**注目のリソース**
+**⭐ 注目のリソース**
 
 - **[CNCF Landscape](https://landscape.cncf.io)**<br>
   `cloud-native` `kubernetes` `architecture`

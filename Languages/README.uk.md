@@ -4,7 +4,7 @@
 
 
 <details>
-<summary><strong>Languages · Sprachen · 18</strong></summary>
+<summary><strong>🌍 Languages · Sprachen · 18</strong></summary>
 
 | | |
 | --- | --- |
@@ -55,9 +55,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ---
 
 <a id="c-meta-meta"></a>
-## Загальні списки <sub>(225)</sub>
+## 🧭 Загальні списки <sub>(225)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**<br>
   `reimplement` `learning`
@@ -118,7 +118,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>Показати ще 205 ресурсів</strong></summary>
+<summary><strong>📂 Показати ще 205 ресурсів</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -693,9 +693,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## ШІ · LLM · MCP · Агенти <sub>(225)</sub>
+## 🤖 ШІ · LLM · MCP · Агенти <sub>(225)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**<br>
   `agents` `reference` `security-warning`
@@ -758,7 +758,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>Показати ще 205 ресурсів</strong></summary>
+<summary><strong>📂 Показати ще 205 ресурсів</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1359,9 +1359,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-languages"></a>
-## Мови та екосистеми <sub>(157)</sub>
+## 💻 Мови та екосистеми <sub>(157)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[vinta/awesome-python](https://github.com/vinta/awesome-python)**<br>
   `python`
@@ -1423,7 +1423,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `electron` `desktop`
 
 <details>
-<summary><strong>Показати ще 137 ресурсів</strong></summary>
+<summary><strong>📂 Показати ще 137 ресурсів</strong></summary>
 
 - **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)**<br>
   `awesome-lists` `awesome-swift` `ios` `linux` `swift` `swift-extensions`
@@ -1820,9 +1820,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-security-privacy"></a>
-## Безпека · Приватність <sub>(68)</sub>
+## 🛡️ Безпека · Приватність <sub>(68)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**<br>
   `security`
@@ -1885,7 +1885,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `bugbounty` `bugbounty-blogs` `bugbounty-facebook` `bugbounty-writeups` `bugbounty-yahoo` `bugbountytips`
 
 <details>
-<summary><strong>Показати ще 48 ресурсів</strong></summary>
+<summary><strong>📂 Показати ще 48 ресурсів</strong></summary>
 
 - **[onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)**<br>
   `courses` `infosec` `lab` `penetration-testing` `pentest` `security`
@@ -2032,9 +2032,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-data-domains"></a>
-## Дані · API · Скрапінг <sub>(62)</sub>
+## 📊 Дані · API · Скрапінг <sub>(62)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**<br>
   `data` `datasets`
@@ -2096,7 +2096,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `geo` `geospatial` `geospatial-library` `geotools` `gis` `map`
 
 <details>
-<summary><strong>Показати ще 42 ресурсів</strong></summary>
+<summary><strong>📂 Показати ще 42 ресурсів</strong></summary>
 
 - **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)**<br>
   `audio` `visualization`
@@ -2220,9 +2220,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-devops"></a>
-## DevOps · Хмара · Інфраструктура <sub>(35)</sub>
+## ☁️ DevOps · Хмара · Інфраструктура <sub>(35)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)**<br>
   `shell` `terminal`
@@ -2284,7 +2284,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `android` `computer-science-students` `data-science` `devops` `education` `fellowship`
 
 <details>
-<summary><strong>Показати ще 15 ресурсів</strong></summary>
+<summary><strong>📂 Показати ще 15 ресурсів</strong></summary>
 
 - **[ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)**<br>
   `ci`
@@ -2334,9 +2334,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-selfhosted"></a>
-## Власний хостинг · Docker · Homelab <sub>(20)</sub>
+## 🏠 Власний хостинг · Docker · Homelab <sub>(20)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**<br>
   `selfhosted` `apps` `business`
@@ -2397,9 +2397,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `selfhosted` `curated`
 
 <a id="c-business-saas"></a>
-## Бізнес · SaaS <sub>(24)</sub>
+## 💼 Бізнес · SaaS <sub>(24)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)**<br>
   `architecture` `cto` `decision-making` `engineering-management` `hiring` `interviewing`
@@ -2461,7 +2461,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `saas` `boilerplate`
 
 <details>
-<summary><strong>Показати ще 4 ресурсів</strong></summary>
+<summary><strong>📂 Показати ще 4 ресурсів</strong></summary>
 
 - **[tyaga001/awesome-saas-boilerplates-and-starter-kits](https://github.com/tyaga001/awesome-saas-boilerplates-and-starter-kits)**<br>
   `starter` `saas`
@@ -2478,9 +2478,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-research"></a>
-## Дослідження · Статті <sub>(20)</sub>
+## 🔬 Дослідження · Статті <sub>(20)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)**<br>
   `computer-science` `courses`
@@ -2539,9 +2539,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `research` `bioinformatics`
 
 <a id="c-supply-chain"></a>
-## Ланцюг постачання · Ліцензії <sub>(19)</sub>
+## 📦 Ланцюг постачання · Ліцензії <sub>(19)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)**<br>
   `assembler` `cartridge` `dmg` `documentation` `game-boy-development` `game-development`
@@ -2600,9 +2600,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `sbom` `signing` `security`
 
 <a id="c-best-of"></a>
-## Рейтинги найкращого <sub>(5)</sub>
+## 🏆 Рейтинги найкращого <sub>(5)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)**<br>
   `best-of` `python` `ml`
@@ -2620,9 +2620,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `best-of` `jupyter`
 
 <a id="c-starters"></a>
-## Стартові проєкти · Шаблони <sub>(12)</sub>
+## 🚀 Стартові проєкти · Шаблони <sub>(12)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**<br>
   `font` `free-photos` `icon-font` `icons` `music` `patterns`
@@ -2657,9 +2657,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `nextjs` `react`
 
 <a id="c-public-sector"></a>
-## Державний сектор <sub>(6)</sub>
+## 🏛️ Державний сектор <sub>(6)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)**<br>
   `app` `collection` `ios` `ipad` `iphone` `macos`
@@ -2680,9 +2680,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `eu` `government` `eupl`
 
 <a id="c-registries"></a>
-## Реєстри · Каталоги <sub>(14)</sub>
+## 🗂️ Реєстри · Каталоги <sub>(14)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[Hugging Face Models](https://huggingface.co/models)**<br>
   `models` `ai` `registry` `api`
@@ -2727,9 +2727,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `search` `live` `github` `discovery`
 
 <a id="c-official-catalogs"></a>
-## Офіційні каталоги <sub>(8)</sub>
+## 📚 Офіційні каталоги <sub>(8)</sub>
 
-**Вибрані ресурси**
+**⭐ Вибрані ресурси**
 
 - **[CNCF Landscape](https://landscape.cncf.io)**<br>
   `cloud-native` `kubernetes` `architecture`

@@ -4,7 +4,7 @@
 
 
 <details>
-<summary><strong>Languages · Sprachen · 18</strong></summary>
+<summary><strong>🌍 Languages · Sprachen · 18</strong></summary>
 
 | | |
 | --- | --- |
@@ -20,15 +20,15 @@
 
 </details>
 
-**Quick links:** [All categories](#contents) · [AI & Agents](#c-ai-llm-mcp) · [Languages](#c-languages) · [Security](#c-security-privacy) · [Self-hosted](#c-selfhosted) · [Best-of](#c-best-of) · [Catalog data](data/sources.jsonl)
+**🧭 Explore:** [All categories](#contents) · [🤖 AI & Agents](#c-ai-llm-mcp) · [💻 Languages](#c-languages) · [🛡️ Security](#c-security-privacy) · [🏠 Self-hosted](#c-selfhosted) · [🏆 Best-of](#c-best-of)
 
-**Copy the repository link:**
+**🔗 Copy the repository link:**
 
 ```text
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-[JSONL](data/sources.jsonl) · [URL list](data/urls.txt) · [Agent guide](CATALOG.md)
+**🧰 Data & tools:** [JSONL catalog](data/sources.jsonl) · [All URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) · [Agent guide](CATALOG.md)
 
 <p align="center">
   <b>900 curated awesome lists, best-of rankings, and indexes across the open-source ecosystem.</b>
@@ -38,8 +38,25 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 A collection of open-source resource lists, from `sindresorhus/awesome` and `awesome-selfhosted` to specialized lists for AI, security, Rust, and remote work.
 
 
-**How to use:** Choose a category, browse up to 20 featured resources, and expand the rest when available. Star counts, licenses, and activity dates are snapshots from the GitHub API.
+**✨ How to use:** Choose a category, browse up to 20 featured resources, and expand the rest when available. To search all 900 URLs, open [All URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) and use your browser’s find function. Star counts, licenses, and activity dates are snapshots from the GitHub API.
 
+
+<details>
+<summary><strong>🤖 Quick queries for agents and developers</strong></summary>
+
+After cloning the repository, use `jq` to extract links from the local catalog:
+
+```sh
+# All AI and agent resources
+jq -r 'select(.cat == "ai-llm-mcp") | .url' data/sources.jsonl
+
+# Resources tagged security
+jq -r 'select(.tags | index("security")) | .url' data/sources.jsonl
+```
+
+See the [agent guide](CATALOG.md) for the data fields and snapshot caveats.
+
+</details>
 
 ---
 
@@ -61,11 +78,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
 ---
 
 <a id="c-meta-meta"></a>
-## 1. Meta Lists & General Resources <sub>(225)</sub>
+## 🧭 1. Meta Lists & General Resources <sub>(225)</sub>
 
 *Lists of lists, overviews, and indexes across domains.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**<br>
   562k★ active 2026-11 · `reimplement` `learning`<br>
@@ -139,7 +156,7 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   TensorFlow - A curated list of dedicated resources https://tensorflow.org
 
 <details>
-<summary><strong>Show 205 more resources</strong></summary>
+<summary><strong>📂 Show 205 more resources</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   17.3k★ `MIT` active 2026-02 · `vite` `vitejs` — ⚡️ A curated list of awesome things related to Vite.js
@@ -871,11 +888,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 2. AI · LLM · MCP · Agents <sub>(225)</sub>
+## 🤖 2. AI · LLM · MCP · Agents <sub>(225)</sub>
 
 *LLM tools, MCP servers, agent frameworks, RAG, generative AI stacks, and coding assistants.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**<br>
   387k★ `MIT` · `agents` `reference` `security-warning`<br>
@@ -952,7 +969,7 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 
 <details>
-<summary><strong>Show 205 more resources</strong></summary>
+<summary><strong>📂 Show 205 more resources</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   19.2k★ `CC0-1.0` active 2026-10 · `deep-learning` `language` `machine-learning`<br>
@@ -1729,11 +1746,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
 </details>
 
 <a id="c-languages"></a>
-## 3. Languages & Ecosystems <sub>(157)</sub>
+## 💻 3. Languages & Ecosystems <sub>(157)</sub>
 
 *Frameworks, libraries, and tools organized by programming language.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[vinta/awesome-python](https://github.com/vinta/awesome-python)**<br>
   334.2k★ active 2026-11 · `python`<br>
@@ -1813,7 +1830,7 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 
 <details>
-<summary><strong>Show 137 more resources</strong></summary>
+<summary><strong>📂 Show 137 more resources</strong></summary>
 
 - **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)**<br>
   26.4k★ `CC0-1.0` active 2026-11 · `awesome-lists` `awesome-swift` `ios`<br>
@@ -2326,11 +2343,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
 </details>
 
 <a id="c-security-privacy"></a>
-## 4. Security · Privacy <sub>(68)</sub>
+## 🛡️ 4. Security · Privacy <sub>(68)</sub>
 
 *Pentesting, OSINT, forensics, privacy, exploit research, and security tools.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**<br>
   125.3k★ `CC0-1.0` active 2026-10 · `security`<br>
@@ -2406,7 +2423,7 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 
 <details>
-<summary><strong>Show 48 more resources</strong></summary>
+<summary><strong>📂 Show 48 more resources</strong></summary>
 
 - **[onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)**<br>
   5.8k★ active 2026-08 · `courses` `infosec` `lab`<br>
@@ -2587,11 +2604,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
 </details>
 
 <a id="c-data-domains"></a>
-## 5. Data · APIs · Scraping <sub>(62)</sub>
+## 📊 5. Data · APIs · Scraping <sub>(62)</sub>
 
 *Public APIs, datasets, scrapers, ETL, analytics, maps, and knowledge graphs.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**<br>
   80.1k★ `MIT` active 2026-11 · `data` `datasets` — A topic-centric list of HQ open datasets.
@@ -2668,7 +2685,7 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some …
 
 <details>
-<summary><strong>Show 42 more resources</strong></summary>
+<summary><strong>📂 Show 42 more resources</strong></summary>
 
 - **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)**<br>
   5.1k★ active 2026-08 · `audio` `visualization` — A curated list about Audio Visualization.
@@ -2829,11 +2846,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
 </details>
 
 <a id="c-devops"></a>
-## 6. DevOps · Cloud · Infrastructure <sub>(35)</sub>
+## ☁️ 6. DevOps · Cloud · Infrastructure <sub>(35)</sub>
 
 *CI/CD, Kubernetes, Terraform, serverless, observability, cloud platforms, and SRE.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)**<br>
   37.9k★ `CC0-1.0` active 2025-08 · `shell` `terminal`<br>
@@ -2908,7 +2925,7 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   An awesome list of events and fellowship opportunities for Computer Science students
 
 <details>
-<summary><strong>Show 15 more resources</strong></summary>
+<summary><strong>📂 Show 15 more resources</strong></summary>
 
 - **[ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)**<br>
   4.2k★ active 2026-10 · `ci` — The list of continuous integration services and tools
@@ -2967,11 +2984,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
 </details>
 
 <a id="c-selfhosted"></a>
-## 7. Selfhosted · Docker · Homelab <sub>(20)</sub>
+## 🏠 7. Selfhosted · Docker · Homelab <sub>(20)</sub>
 
 *Self-hosted apps, Docker stacks, homelab setups, and free software services.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**<br>
   336.3k★ active 2026-11 · `selfhosted` `apps` `business`<br>
@@ -3047,11 +3064,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   Bewaehrte Kurzauswahl (Mailcow, Paperless-ngx, Pocket ID, CrowdSec)
 
 <a id="c-business-saas"></a>
-## 8. Business · SaaS <sub>(24)</sub>
+## 💼 8. Business · SaaS <sub>(24)</sub>
 
 *Marketing, sales, CRM, e-commerce, remote work, trading, crypto, and SaaS alternatives.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)**<br>
   35.7k★ `CC0-1.0` active 2026-03 · `architecture` `cto` `decision-making`<br>
@@ -3128,7 +3145,7 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
 
 <details>
-<summary><strong>Show 4 more resources</strong></summary>
+<summary><strong>📂 Show 4 more resources</strong></summary>
 
 - **[tyaga001/awesome-saas-boilerplates-and-starter-kits](https://github.com/tyaga001/awesome-saas-boilerplates-and-starter-kits)**<br>
   `starter` `saas` — Nach Stack sortiert
@@ -3145,11 +3162,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
 </details>
 
 <a id="c-research"></a>
-## 9. Research · Papers <sub>(20)</sub>
+## 🔬 9. Research · Papers <sub>(20)</sub>
 
 *Research papers, courses, mathematics, biology, and academic resources.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)**<br>
   72.8k★ active 2023-05 · `computer-science` `courses`<br>
@@ -3225,11 +3242,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   `research` `bioinformatics` — Life-Science-Tools
 
 <a id="c-supply-chain"></a>
-## 10. Supply Chain · Licenses <sub>(19)</sub>
+## 📦 10. Supply Chain · Licenses <sub>(19)</sub>
 
 *SBOMs, signing, open-source licenses, compliance, and software supply chain security.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)**<br>
   4.5k★ `GPL-3.0` active 2026-10 · `assembler` `cartridge` `dmg`<br>
@@ -3299,11 +3316,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   `sbom` `signing` `security` — SBOM, Signierung
 
 <a id="c-best-of"></a>
-## 11. Best-of-Rankings <sub>(5)</sub>
+## 🏆 11. Best-of-Rankings <sub>(5)</sub>
 
 *Automatically curated rankings with quality scores.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)**<br>
   23.9k★ `CC-BY-SA-4.0` active 2026-11 · `best-of` `python` `ml`<br>
@@ -3326,11 +3343,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 
 <a id="c-starters"></a>
-## 12. Starter · Templates <sub>(12)</sub>
+## 🚀 12. Starter · Templates <sub>(12)</sub>
 
 *Boilerplates, project starters, scaffolding, and templates.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**<br>
   14.8k★ `CC0-1.0` active 2026-02 · `font` `free-photos` `icon-font`<br>
@@ -3376,11 +3393,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   `starter` `devcontainer` — Reproduzierbare Dev-Umgebungen
 
 <a id="c-public-sector"></a>
-## 13. Public Sector <sub>(6)</sub>
+## 🏛️ 13. Public Sector <sub>(6)</sub>
 
 *Government, open data, e-government, and nonprofit resources.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)**<br>
   5.7k★ `MIT` active 2026-11 · `app` `collection` `ios`<br>
@@ -3403,11 +3420,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   `eu` `government` `eupl` — EU-Interop-Loesungen, EUPL
 
 <a id="c-registries"></a>
-## 14. Registries · Catalogs <sub>(14)</sub>
+## 🗂️ 14. Registries · Catalogs <sub>(14)</sub>
 
 *Package registries, tool catalogs, and machine-readable directories.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[Hugging Face Models](https://huggingface.co/models)**<br>
   `models` `ai` `registry` — >3.1M Modelle; Filter Task/Library/Sprache/Lizenz
@@ -3454,11 +3471,11 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
   Live-Discovery bei Katalogluecke; ~10 req/min ohne Token
 
 <a id="c-official-catalogs"></a>
-## 15. Official Catalogs <sub>(8)</sub>
+## 📚 15. Official Catalogs <sub>(8)</sub>
 
 *Official directories maintained by organizations and project maintainers.*
 
-**Featured resources**
+**⭐ Featured resources**
 
 - **[CNCF Landscape](https://landscape.cncf.io)**<br>
   `cloud-native` `kubernetes` `architecture` — Architektur-Landkarte Cloud Native

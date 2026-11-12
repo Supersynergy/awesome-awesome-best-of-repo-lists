@@ -4,7 +4,7 @@
 
 
 <details>
-<summary><strong>Languages · Sprachen · 18</strong></summary>
+<summary><strong>🌍 Languages · Sprachen · 18</strong></summary>
 
 | | |
 | --- | --- |
@@ -20,15 +20,15 @@
 
 </details>
 
-**Schnellzugriff:** [Alle Kategorien](#inhalt) · [KI & Agenten](#c-ai-llm-mcp) · [Sprachen](#c-languages) · [Security](#c-security-privacy) · [Self-hosted](#c-selfhosted) · [Best-of](#c-best-of) · [Katalogdaten](../data/sources.jsonl)
+**🧭 Entdecken:** [Alle Kategorien](#inhalt) · [🤖 KI & Agenten](#c-ai-llm-mcp) · [💻 Sprachen](#c-languages) · [🛡️ Security](#c-security-privacy) · [🏠 Self-hosted](#c-selfhosted) · [🏆 Best-of](#c-best-of)
 
-**Repository-Link kopieren:**
+**🔗 Repository-Link kopieren:**
 
 ```text
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-[JSONL](../data/sources.jsonl) · [URL-Liste](../data/urls.txt) · [Anleitung für Agenten](../CATALOG.md)
+**🧰 Daten & Werkzeuge:** [JSONL-Katalog](../data/sources.jsonl) · [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) · [Anleitung für Agenten](../CATALOG.md)
 
 <p align="center">
   <b>900 kuratierte Awesome-Listen, Best-of-Rankings und Meta-Indizes — jeder Eintrag ist selbst ein Meta-Filter für eine Domain.</b>
@@ -38,8 +38,25 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosystem: von `sindresorhus/awesome` über `awesome-selfhosted` bis zu spezialisierten Listen für AI/LLM, Security, Rust oder Remote-Work.
 
 
-**So nutzen:** Kategorie wählen, bis zu 20 Ressourcen direkt ansehen und bei Bedarf weitere aufklappen. Stars, Lizenz und letzte Aktivität sind Live-Snapshots aus der GitHub API.
+**✨ So nutzen:** Kategorie wählen, bis zu 20 Ressourcen direkt ansehen und bei Bedarf weitere aufklappen. Für die Suche in allen 900 URLs öffne [Alle URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) und nutze die Suchfunktion deines Browsers. Sterne, Lizenzen und Aktivitätsdaten sind Momentaufnahmen aus der GitHub API.
 
+
+<details>
+<summary><strong>🤖 Schnelle Abfragen für Agenten und Entwickler</strong></summary>
+
+Nach dem Klonen lassen sich Links mit `jq` aus dem lokalen Katalog filtern:
+
+```sh
+# Alle KI- und Agenten-Ressourcen
+jq -r 'select(.cat == "ai-llm-mcp") | .url' data/sources.jsonl
+
+# Ressourcen mit dem Tag security
+jq -r 'select(.tags | index("security")) | .url' data/sources.jsonl
+```
+
+Die [Anleitung für Agenten](../CATALOG.md) erklärt die Datenfelder und den Stand der Daten.
+
+</details>
 
 ---
 
@@ -61,11 +78,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
 ---
 
 <a id="c-meta-meta"></a>
-## 1. Meta-Listen & Querschnitt <sub>(225)</sub>
+## 🧭 1. Meta-Listen & Querschnitt <sub>(225)</sub>
 
 *Listen von Listen, beste Übersichten und Such-Indizes — der Einstieg in jede Domain.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**<br>
   562k★ aktiv 2026-11 · `reimplement` `learning`<br>
@@ -139,7 +156,7 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   TensorFlow - A curated list of dedicated resources https://tensorflow.org
 
 <details>
-<summary><strong>205 weitere Ressourcen anzeigen</strong></summary>
+<summary><strong>📂 205 weitere Ressourcen anzeigen</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   17.3k★ `MIT` aktiv 2026-02 · `vite` `vitejs` — ⚡️ A curated list of awesome things related to Vite.js
@@ -871,11 +888,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## 2. AI · LLM · MCP · Agenten <sub>(225)</sub>
+## 🤖 2. AI · LLM · MCP · Agenten <sub>(225)</sub>
 
 *LLM-Tools, MCP-Server, Agent-Frameworks, RAG, GenAI-Stacks und Coding-Assistenten-Ökosysteme.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**<br>
   387k★ `MIT` · `agents` `reference` `security-warning`<br>
@@ -952,7 +969,7 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 
 <details>
-<summary><strong>205 weitere Ressourcen anzeigen</strong></summary>
+<summary><strong>📂 205 weitere Ressourcen anzeigen</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   19.2k★ `CC0-1.0` aktiv 2026-10 · `deep-learning` `language` `machine-learning`<br>
@@ -1729,11 +1746,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
 </details>
 
 <a id="c-languages"></a>
-## 3. Sprachen & Ökosysteme <sub>(157)</sub>
+## 💻 3. Sprachen & Ökosysteme <sub>(157)</sub>
 
 *Kuratiert nach Programmiersprache: Python, Go, Rust, TypeScript, Java, Ruby u.v.m. — Frameworks, Libraries, Tools.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[vinta/awesome-python](https://github.com/vinta/awesome-python)**<br>
   334.2k★ aktiv 2026-11 · `python`<br>
@@ -1813,7 +1830,7 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 
 <details>
-<summary><strong>137 weitere Ressourcen anzeigen</strong></summary>
+<summary><strong>📂 137 weitere Ressourcen anzeigen</strong></summary>
 
 - **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)**<br>
   26.4k★ `CC0-1.0` aktiv 2026-11 · `awesome-lists` `awesome-swift` `ios`<br>
@@ -2326,11 +2343,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
 </details>
 
 <a id="c-security-privacy"></a>
-## 4. Security · Privacy <sub>(68)</sub>
+## 🛡️ 4. Security · Privacy <sub>(68)</sub>
 
 *Pentesting, OSINT, Forensics, Privacy/GDPR, Exploit-Recherche und Security-Tooling.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**<br>
   125.3k★ `CC0-1.0` aktiv 2026-10 · `security`<br>
@@ -2406,7 +2423,7 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 
 <details>
-<summary><strong>48 weitere Ressourcen anzeigen</strong></summary>
+<summary><strong>📂 48 weitere Ressourcen anzeigen</strong></summary>
 
 - **[onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)**<br>
   5.8k★ aktiv 2026-08 · `courses` `infosec` `lab`<br>
@@ -2587,11 +2604,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
 </details>
 
 <a id="c-data-domains"></a>
-## 5. Daten · APIs · Scraping <sub>(62)</sub>
+## 📊 5. Daten · APIs · Scraping <sub>(62)</sub>
 
 *Öffentliche APIs, Datensätze, Scraper, ETL, Analytics, Geo/Maps und Wissensgraphen.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**<br>
   80.1k★ `MIT` aktiv 2026-11 · `data` `datasets` — A topic-centric list of HQ open datasets.
@@ -2668,7 +2685,7 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some …
 
 <details>
-<summary><strong>42 weitere Ressourcen anzeigen</strong></summary>
+<summary><strong>📂 42 weitere Ressourcen anzeigen</strong></summary>
 
 - **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)**<br>
   5.1k★ aktiv 2026-08 · `audio` `visualization` — A curated list about Audio Visualization.
@@ -2829,11 +2846,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
 </details>
 
 <a id="c-devops"></a>
-## 6. DevOps · Cloud · Infrastruktur <sub>(35)</sub>
+## ☁️ 6. DevOps · Cloud · Infrastruktur <sub>(35)</sub>
 
 *CI/CD, Kubernetes, Terraform, Serverless, Observability, Cloud-Plattformen und SRE.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)**<br>
   37.9k★ `CC0-1.0` aktiv 2025-08 · `shell` `terminal`<br>
@@ -2908,7 +2925,7 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   An awesome list of events and fellowship opportunities for Computer Science students
 
 <details>
-<summary><strong>15 weitere Ressourcen anzeigen</strong></summary>
+<summary><strong>📂 15 weitere Ressourcen anzeigen</strong></summary>
 
 - **[ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)**<br>
   4.2k★ aktiv 2026-10 · `ci` — The list of continuous integration services and tools
@@ -2967,11 +2984,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
 </details>
 
 <a id="c-selfhosted"></a>
-## 7. Selfhosted · Docker · Homelab <sub>(20)</sub>
+## 🏠 7. Selfhosted · Docker · Homelab <sub>(20)</sub>
 
 *Self-hosted Apps, Docker-Stacks, Homelab-Setups und Free-software-Services.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**<br>
   336.3k★ aktiv 2026-11 · `selfhosted` `apps` `business`<br>
@@ -3047,11 +3064,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   Bewaehrte Kurzauswahl (Mailcow, Paperless-ngx, Pocket ID, CrowdSec)
 
 <a id="c-business-saas"></a>
-## 8. Business · SaaS <sub>(24)</sub>
+## 💼 8. Business · SaaS <sub>(24)</sub>
 
 *Marketing, Sales, CRM, E-Commerce, Remote-Work, Trading/Krypto und SaaS-Alternativen.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)**<br>
   35.7k★ `CC0-1.0` aktiv 2026-03 · `architecture` `cto` `decision-making`<br>
@@ -3128,7 +3145,7 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
 
 <details>
-<summary><strong>4 weitere Ressourcen anzeigen</strong></summary>
+<summary><strong>📂 4 weitere Ressourcen anzeigen</strong></summary>
 
 - **[tyaga001/awesome-saas-boilerplates-and-starter-kits](https://github.com/tyaga001/awesome-saas-boilerplates-and-starter-kits)**<br>
   `starter` `saas` — Nach Stack sortiert
@@ -3145,11 +3162,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
 </details>
 
 <a id="c-research"></a>
-## 9. Forschung · Papers <sub>(20)</sub>
+## 🔬 9. Forschung · Papers <sub>(20)</sub>
 
 *Wissenschaftliche Paper-Sammlungen, Kurse, Mathematik, Biologie und akademische Ressourcen.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)**<br>
   72.8k★ aktiv 2023-05 · `computer-science` `courses`<br>
@@ -3225,11 +3242,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   `research` `bioinformatics` — Life-Science-Tools
 
 <a id="c-supply-chain"></a>
-## 10. Supply Chain · Lizenzen <sub>(19)</sub>
+## 📦 10. Supply Chain · Lizenzen <sub>(19)</sub>
 
 *SBOM, Signierung, OSS-Lizenzen, Compliance und Software-Supply-Chain-Security.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)**<br>
   4.5k★ `GPL-3.0` aktiv 2026-10 · `assembler` `cartridge` `dmg`<br>
@@ -3299,11 +3316,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   `sbom` `signing` `security` — SBOM, Signierung
 
 <a id="c-best-of"></a>
-## 11. Best-of-Rankings <sub>(5)</sub>
+## 🏆 11. Best-of-Rankings <sub>(5)</sub>
 
 *Automatisch kuratierte Rankings mit Quality-Scores — das Meta-Format jenseits klassischer Awesome-Listen.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)**<br>
   23.9k★ `CC-BY-SA-4.0` aktiv 2026-11 · `best-of` `python` `ml`<br>
@@ -3326,11 +3343,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 
 <a id="c-starters"></a>
-## 12. Starter · Templates <sub>(12)</sub>
+## 🚀 12. Starter · Templates <sub>(12)</sub>
 
 *Boilerplates, Project-Starter, Scaffolding und Templates zum Sofort-Start.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**<br>
   14.8k★ `CC0-1.0` aktiv 2026-02 · `font` `free-photos` `icon-font`<br>
@@ -3376,11 +3393,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   `starter` `devcontainer` — Reproduzierbare Dev-Umgebungen
 
 <a id="c-public-sector"></a>
-## 13. Öffentlicher Sektor <sub>(6)</sub>
+## 🏛️ 13. Öffentlicher Sektor <sub>(6)</sub>
 
 *Government, Open Data, E-Government und Non-Profit-Ressourcen.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)**<br>
   5.7k★ `MIT` aktiv 2026-11 · `app` `collection` `ios`<br>
@@ -3403,11 +3420,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   `eu` `government` `eupl` — EU-Interop-Loesungen, EUPL
 
 <a id="c-registries"></a>
-## 14. Registries · Kataloge <sub>(14)</sub>
+## 🗂️ 14. Registries · Kataloge <sub>(14)</sub>
 
 *Paket-Registries, Tool-Kataloge und maschinenlesbare Verzeichnisse.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[Hugging Face Models](https://huggingface.co/models)**<br>
   `models` `ai` `registry` — >3.1M Modelle; Filter Task/Library/Sprache/Lizenz
@@ -3454,11 +3471,11 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
   Live-Discovery bei Katalogluecke; ~10 req/min ohne Token
 
 <a id="c-official-catalogs"></a>
-## 15. Offizielle Kataloge <sub>(8)</sub>
+## 📚 15. Offizielle Kataloge <sub>(8)</sub>
 
 *Von Maintainern oder Organisationen gepflegte offizielle Verzeichnisse.*
 
-**Ausgewählte Ressourcen**
+**⭐ Ausgewählte Ressourcen**
 
 - **[CNCF Landscape](https://landscape.cncf.io)**<br>
   `cloud-native` `kubernetes` `architecture` — Architektur-Landkarte Cloud Native

@@ -4,7 +4,7 @@
 
 
 <details>
-<summary><strong>Languages · Sprachen · 18</strong></summary>
+<summary><strong>🌍 Languages · Sprachen · 18</strong></summary>
 
 | | |
 | --- | --- |
@@ -55,9 +55,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ---
 
 <a id="c-meta-meta"></a>
-## قوائم عامة <sub>(225)</sub>
+## 🧭 قوائم عامة <sub>(225)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)**<br>
   `reimplement` `learning`
@@ -118,7 +118,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 - **[jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)**
 
 <details>
-<summary><strong>عرض 205 موارد إضافية</strong></summary>
+<summary><strong>📂 عرض 205 موارد إضافية</strong></summary>
 
 - **[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)**<br>
   `vite` `vitejs`
@@ -693,9 +693,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-ai-llm-mcp"></a>
-## الذكاء الاصطناعي · LLM · MCP · الوكلاء <sub>(225)</sub>
+## 🤖 الذكاء الاصطناعي · LLM · MCP · الوكلاء <sub>(225)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)**<br>
   `agents` `reference` `security-warning`
@@ -758,7 +758,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `data-mining` `deep-learning` `explainability` `interpretability` `large-scale-machine-learning` `large-scale-ml`
 
 <details>
-<summary><strong>عرض 205 موارد إضافية</strong></summary>
+<summary><strong>📂 عرض 205 موارد إضافية</strong></summary>
 
 - **[keon/awesome-nlp](https://github.com/keon/awesome-nlp)**<br>
   `deep-learning` `language` `machine-learning` `natural-language-processing` `nlp` `text-mining`
@@ -1359,9 +1359,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-languages"></a>
-## اللغات والأنظمة <sub>(157)</sub>
+## 💻 اللغات والأنظمة <sub>(157)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[vinta/awesome-python](https://github.com/vinta/awesome-python)**<br>
   `python`
@@ -1423,7 +1423,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `electron` `desktop`
 
 <details>
-<summary><strong>عرض 137 موارد إضافية</strong></summary>
+<summary><strong>📂 عرض 137 موارد إضافية</strong></summary>
 
 - **[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)**<br>
   `awesome-lists` `awesome-swift` `ios` `linux` `swift` `swift-extensions`
@@ -1820,9 +1820,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-security-privacy"></a>
-## الأمان · الخصوصية <sub>(68)</sub>
+## 🛡️ الأمان · الخصوصية <sub>(68)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**<br>
   `security`
@@ -1885,7 +1885,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `bugbounty` `bugbounty-blogs` `bugbounty-facebook` `bugbounty-writeups` `bugbounty-yahoo` `bugbountytips`
 
 <details>
-<summary><strong>عرض 48 موارد إضافية</strong></summary>
+<summary><strong>📂 عرض 48 موارد إضافية</strong></summary>
 
 - **[onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)**<br>
   `courses` `infosec` `lab` `penetration-testing` `pentest` `security`
@@ -2032,9 +2032,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-data-domains"></a>
-## البيانات · واجهات API · جمع البيانات <sub>(62)</sub>
+## 📊 البيانات · واجهات API · جمع البيانات <sub>(62)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)**<br>
   `data` `datasets`
@@ -2096,7 +2096,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `geo` `geospatial` `geospatial-library` `geotools` `gis` `map`
 
 <details>
-<summary><strong>عرض 42 موارد إضافية</strong></summary>
+<summary><strong>📂 عرض 42 موارد إضافية</strong></summary>
 
 - **[willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)**<br>
   `audio` `visualization`
@@ -2220,9 +2220,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-devops"></a>
-## DevOps · السحابة · البنية التحتية <sub>(35)</sub>
+## ☁️ DevOps · السحابة · البنية التحتية <sub>(35)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)**<br>
   `shell` `terminal`
@@ -2284,7 +2284,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `android` `computer-science-students` `data-science` `devops` `education` `fellowship`
 
 <details>
-<summary><strong>عرض 15 موارد إضافية</strong></summary>
+<summary><strong>📂 عرض 15 موارد إضافية</strong></summary>
 
 - **[ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)**<br>
   `ci`
@@ -2334,9 +2334,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-selfhosted"></a>
-## الاستضافة الذاتية · Docker · المختبر المنزلي <sub>(20)</sub>
+## 🏠 الاستضافة الذاتية · Docker · المختبر المنزلي <sub>(20)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**<br>
   `selfhosted` `apps` `business`
@@ -2397,9 +2397,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `selfhosted` `curated`
 
 <a id="c-business-saas"></a>
-## الأعمال · SaaS <sub>(24)</sub>
+## 💼 الأعمال · SaaS <sub>(24)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[kuchin/awesome-cto](https://github.com/kuchin/awesome-cto)**<br>
   `architecture` `cto` `decision-making` `engineering-management` `hiring` `interviewing`
@@ -2461,7 +2461,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `saas` `boilerplate`
 
 <details>
-<summary><strong>عرض 4 موارد إضافية</strong></summary>
+<summary><strong>📂 عرض 4 موارد إضافية</strong></summary>
 
 - **[tyaga001/awesome-saas-boilerplates-and-starter-kits](https://github.com/tyaga001/awesome-saas-boilerplates-and-starter-kits)**<br>
   `starter` `saas`
@@ -2478,9 +2478,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 </details>
 
 <a id="c-research"></a>
-## الأبحاث · الأوراق <sub>(20)</sub>
+## 🔬 الأبحاث · الأوراق <sub>(20)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)**<br>
   `computer-science` `courses`
@@ -2539,9 +2539,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `research` `bioinformatics`
 
 <a id="c-supply-chain"></a>
-## سلسلة التوريد · التراخيص <sub>(19)</sub>
+## 📦 سلسلة التوريد · التراخيص <sub>(19)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)**<br>
   `assembler` `cartridge` `dmg` `documentation` `game-boy-development` `game-development`
@@ -2600,9 +2600,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `sbom` `signing` `security`
 
 <a id="c-best-of"></a>
-## تصنيفات الأفضل <sub>(5)</sub>
+## 🏆 تصنيفات الأفضل <sub>(5)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python)**<br>
   `best-of` `python` `ml`
@@ -2620,9 +2620,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `best-of` `jupyter`
 
 <a id="c-starters"></a>
-## المشاريع الأولية · القوالب <sub>(12)</sub>
+## 🚀 المشاريع الأولية · القوالب <sub>(12)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)**<br>
   `font` `free-photos` `icon-font` `icons` `music` `patterns`
@@ -2657,9 +2657,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `starter` `nextjs` `react`
 
 <a id="c-public-sector"></a>
-## القطاع العام <sub>(6)</sub>
+## 🏛️ القطاع العام <sub>(6)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)**<br>
   `app` `collection` `ios` `ipad` `iphone` `macos`
@@ -2680,9 +2680,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `eu` `government` `eupl`
 
 <a id="c-registries"></a>
-## السجلات · الفهارس <sub>(14)</sub>
+## 🗂️ السجلات · الفهارس <sub>(14)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[Hugging Face Models](https://huggingface.co/models)**<br>
   `models` `ai` `registry` `api`
@@ -2727,9 +2727,9 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
   `search` `live` `github` `discovery`
 
 <a id="c-official-catalogs"></a>
-## الفهارس الرسمية <sub>(8)</sub>
+## 📚 الفهارس الرسمية <sub>(8)</sub>
 
-**موارد مختارة**
+**⭐ موارد مختارة**
 
 - **[CNCF Landscape](https://landscape.cncf.io)**<br>
   `cloud-native` `kubernetes` `architecture`
