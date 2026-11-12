@@ -1,6 +1,6 @@
 # Awesome Awesome Best of Repo Lists
 
-![Awesome Awesome Best of Repo Lists — a constellation of open-source resources](assets/hero.png)
+![Awesome Awesome Best of Repo Lists](assets/hero.png)
 
 
 <details>
