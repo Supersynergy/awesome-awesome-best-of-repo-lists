@@ -2,7 +2,17 @@
 
 ![Awesome Awesome Best of Repo Lists](assets/hero.png)
 
-[![English](https://flagcdn.com/24x18/gb.png) English](README.md) · [![Deutsch](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) · [![Español](https://flagcdn.com/24x18/es.png) Español](README.es.md) · [![Français](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) · [![Italiano](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) · [![Português](https://flagcdn.com/24x18/pt.png) Português](README.pt.md) · [![Nederlands](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) · [![Polski](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) · [![Türkçe](https://flagcdn.com/24x18/tr.png) Türkçe](README.tr.md) · [![日本語](https://flagcdn.com/24x18/jp.png) 日本語](README.ja.md) · [![한국어](https://flagcdn.com/24x18/kr.png) 한국어](README.ko.md) · [![中文](https://flagcdn.com/24x18/cn.png) 中文](README.zh.md)
+
+<details>
+<summary><strong>Languages · Sprachen · 18</strong></summary>
+
+[![English](https://flagcdn.com/24x18/gb.png) English](README.md) · [![Deutsch](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) · [![Español](https://flagcdn.com/24x18/es.png) Español](README.es.md) · [![Français](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) · [![Italiano](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) · [![Português](https://flagcdn.com/24x18/pt.png) Português](README.pt.md)
+
+[![Nederlands](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) · [![Polski](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) · [![Türkçe](https://flagcdn.com/24x18/tr.png) Türkçe](README.tr.md) · [![日本語](https://flagcdn.com/24x18/jp.png) 日本語](README.ja.md) · [![한국어](https://flagcdn.com/24x18/kr.png) 한국어](README.ko.md) · [![中文](https://flagcdn.com/24x18/cn.png) 中文](README.zh.md)
+
+[![العربية](https://flagcdn.com/24x18/sa.png) العربية](README.ar.md) · [![हिन्दी](https://flagcdn.com/24x18/in.png) हिन्दी](README.hi.md) · [![Bahasa Indonesia](https://flagcdn.com/24x18/id.png) Bahasa Indonesia](README.id.md) · [![Tiếng Việt](https://flagcdn.com/24x18/vn.png) Tiếng Việt](README.vi.md) · [![Українська](https://flagcdn.com/24x18/ua.png) Українська](README.uk.md) · [![Svenska](https://flagcdn.com/24x18/se.png) Svenska](README.sv.md)
+
+</details>
 
 ## 厳選リポジトリリストを探す
 

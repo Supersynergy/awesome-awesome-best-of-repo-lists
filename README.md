@@ -2,7 +2,17 @@
 
 ![Awesome Awesome Best of Repo Lists — a constellation of open-source resources](assets/hero.png)
 
-[![English](https://flagcdn.com/24x18/gb.png) English](README.md) · [![Deutsch](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) · [![Español](https://flagcdn.com/24x18/es.png) Español](README.es.md) · [![Français](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) · [![Italiano](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) · [![Português](https://flagcdn.com/24x18/pt.png) Português](README.pt.md) · [![Nederlands](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) · [![Polski](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) · [![Türkçe](https://flagcdn.com/24x18/tr.png) Türkçe](README.tr.md) · [![日本語](https://flagcdn.com/24x18/jp.png) 日本語](README.ja.md) · [![한국어](https://flagcdn.com/24x18/kr.png) 한국어](README.ko.md) · [![中文](https://flagcdn.com/24x18/cn.png) 中文](README.zh.md)
+
+<details>
+<summary><strong>Languages · Sprachen · 18</strong></summary>
+
+[![English](https://flagcdn.com/24x18/gb.png) English](README.md) · [![Deutsch](https://flagcdn.com/24x18/de.png) Deutsch](README.de.md) · [![Español](https://flagcdn.com/24x18/es.png) Español](README.es.md) · [![Français](https://flagcdn.com/24x18/fr.png) Français](README.fr.md) · [![Italiano](https://flagcdn.com/24x18/it.png) Italiano](README.it.md) · [![Português](https://flagcdn.com/24x18/pt.png) Português](README.pt.md)
+
+[![Nederlands](https://flagcdn.com/24x18/nl.png) Nederlands](README.nl.md) · [![Polski](https://flagcdn.com/24x18/pl.png) Polski](README.pl.md) · [![Türkçe](https://flagcdn.com/24x18/tr.png) Türkçe](README.tr.md) · [![日本語](https://flagcdn.com/24x18/jp.png) 日本語](README.ja.md) · [![한국어](https://flagcdn.com/24x18/kr.png) 한국어](README.ko.md) · [![中文](https://flagcdn.com/24x18/cn.png) 中文](README.zh.md)
+
+[![العربية](https://flagcdn.com/24x18/sa.png) العربية](README.ar.md) · [![हिन्दी](https://flagcdn.com/24x18/in.png) हिन्दी](README.hi.md) · [![Bahasa Indonesia](https://flagcdn.com/24x18/id.png) Bahasa Indonesia](README.id.md) · [![Tiếng Việt](https://flagcdn.com/24x18/vn.png) Tiếng Việt](README.vi.md) · [![Українська](https://flagcdn.com/24x18/ua.png) Українська](README.uk.md) · [![Svenska](https://flagcdn.com/24x18/se.png) Svenska](README.sv.md)
+
+</details>
 
 **Quick links:** [All categories](#contents) · [AI & Agents](#c-ai-llm-mcp) · [Languages](#c-languages) · [Security](#c-security-privacy) · [Self-hosted](#c-selfhosted) · [Best-of](#c-best-of) · [Catalog data](data/sources.jsonl)
 
@@ -22,7 +32,7 @@ https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 A collection of open-source resource lists, from `sindresorhus/awesome` and `awesome-selfhosted` to specialized lists for AI, security, Rust, and remote work.
 
 
-**How to use:** Choose a category, open a list, and explore its resources. Star counts, licenses, and activity dates are snapshots from the GitHub API.
+**How to use:** Choose a category, expand it, and open a resource. Star counts, licenses, and activity dates are snapshots from the GitHub API.
 
 
 ---
@@ -31,23 +41,16 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
 ## Contents
 
 
-| # | Category | Entries |
-|---|---|---:|
-| 1 | [Meta Lists & General Resources](#c-meta-meta) | 225 |
-| 2 | [AI · LLM · MCP · Agents](#c-ai-llm-mcp) | 225 |
-| 3 | [Languages & Ecosystems](#c-languages) | 157 |
-| 4 | [Security · Privacy](#c-security-privacy) | 68 |
-| 5 | [Data · APIs · Scraping](#c-data-domains) | 62 |
-| 6 | [DevOps · Cloud · Infrastructure](#c-devops) | 35 |
-| 7 | [Selfhosted · Docker · Homelab](#c-selfhosted) | 20 |
-| 8 | [Business · SaaS](#c-business-saas) | 24 |
-| 9 | [Research · Papers](#c-research) | 20 |
-| 10 | [Supply Chain · Licenses](#c-supply-chain) | 19 |
-| 11 | [Best-of-Rankings](#c-best-of) | 5 |
-| 12 | [Starter · Templates](#c-starters) | 12 |
-| 13 | [Public Sector](#c-public-sector) | 6 |
-| 14 | [Registries · Catalogs](#c-registries) | 14 |
-| 15 | [Official Catalogs](#c-official-catalogs) | 8 |
+| Category | Category |
+| --- | --- |
+| [Meta Lists & General Resources](#c-meta-meta) · 225 | [AI · LLM · MCP · Agents](#c-ai-llm-mcp) · 225 |
+| [Languages & Ecosystems](#c-languages) · 157 | [Security · Privacy](#c-security-privacy) · 68 |
+| [Data · APIs · Scraping](#c-data-domains) · 62 | [DevOps · Cloud · Infrastructure](#c-devops) · 35 |
+| [Selfhosted · Docker · Homelab](#c-selfhosted) · 20 | [Business · SaaS](#c-business-saas) · 24 |
+| [Research · Papers](#c-research) · 20 | [Supply Chain · Licenses](#c-supply-chain) · 19 |
+| [Best-of-Rankings](#c-best-of) · 5 | [Starter · Templates](#c-starters) · 12 |
+| [Public Sector](#c-public-sector) · 6 | [Registries · Catalogs](#c-registries) · 14 |
+| [Official Catalogs](#c-official-catalogs) · 8 |  |
 
 ---
 
