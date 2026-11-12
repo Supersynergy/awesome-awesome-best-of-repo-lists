@@ -749,7 +749,7 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
 
 - **[thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak)**<br>
   1.9k★ `MIT` active 2026-11<br>
-  A curated list of resources for learning about http://www.keycloak.org
+  A curated list of resources for learning about https://www.keycloak.org
 
 - **[mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown)**<br>
   1.9k★ active 2026-09<br>

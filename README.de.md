@@ -749,7 +749,7 @@ Eine gepflegte Sammlung der besten Ressourcen-Listen aus dem Open-Source-Ökosys
 
 - **[thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak)**<br>
   1.9k★ `MIT` aktiv 2026-11<br>
-  A curated list of resources for learning about http://www.keycloak.org
+  A curated list of resources for learning about https://www.keycloak.org
 
 - **[mundimark/awesome-markdown](https://github.com/mundimark/awesome-markdown)**<br>
   1.9k★ aktiv 2026-09<br>
