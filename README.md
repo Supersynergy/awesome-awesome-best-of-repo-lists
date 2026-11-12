@@ -1,6 +1,6 @@
 # Awesome Awesome Best of Repo Lists
 
-![Awesome Awesome Best of Repo Lists](assets/hero.png)
+<img src="assets/hero.png" alt="Awesome Awesome Best of Repo Lists" width="300" align="right">
 
 
 <details>
@@ -33,7 +33,7 @@
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-**🧰 Data & tools:** [JSONL catalog](data/sources.jsonl) · [All URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) · [Agent guide](CATALOG.md)
+**🧰 Data & tools:** [JSONL catalog](data/sources.jsonl) · [All URLs](https://raw.githubusercontent.com/Supersynergy/awesome-awesome-best-of-repo-lists/main/data/urls.txt) · [Agent guide](docs/CATALOG.md)
 
 <p align="center">
   <b>967 catalog entries covering awesome lists, best-of rankings, and indexes across the open-source ecosystem.</b>
@@ -59,7 +59,7 @@ jq -r 'select(.cat == "ai-llm-mcp") | .url' data/sources.jsonl
 jq -r 'select(.tags | index("security")) | .url' data/sources.jsonl
 ```
 
-See the [agent guide](CATALOG.md) for the data fields and snapshot caveats.
+See the [agent guide](docs/CATALOG.md) for the data fields and snapshot caveats.
 
 </details>
 

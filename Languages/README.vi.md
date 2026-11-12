@@ -37,7 +37,7 @@
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-**Dữ liệu và liên kết:** [JSONL](../data/sources.jsonl) · [URLs](../data/urls.txt) · [Agent guide](../CATALOG.md)
+**Dữ liệu và liên kết:** [JSONL](../data/sources.jsonl) · [URLs](../data/urls.txt) · [Agent guide](../docs/CATALOG.md)
 
 ## Danh mục
 

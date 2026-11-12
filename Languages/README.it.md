@@ -37,7 +37,7 @@
 https://github.com/Supersynergy/awesome-awesome-best-of-repo-lists
 ```
 
-**Dati e link:** [JSONL](../data/sources.jsonl) · [URLs](../data/urls.txt) · [Agent guide](../CATALOG.md)
+**Dati e link:** [JSONL](../data/sources.jsonl) · [URLs](../data/urls.txt) · [Agent guide](../docs/CATALOG.md)
 
 ## Categorie
 
