@@ -1,1 +1,2 @@
 Temporary bot attribution fixture. Do not merge.
+Coauthor fixture.
