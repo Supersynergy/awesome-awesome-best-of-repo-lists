@@ -420,7 +420,7 @@ A collection of open-source resource lists, from `sindresorhus/awesome` and `awe
 
 - **[dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida)**<br>
   3.6k★ `CC0-1.0` active 2026-10 · `android` `dynamic-analysis` `frida`<br>
-  Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
+  Awesome Frida - A curated list of Frida resources https://www.frida.re/ (https://github.com/frida/frida)
 
 - **[qazbnm456/awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc)**<br>
   3.5k★ active 2022-01 · `cve` `poc` — ✍️ A curated list of CVE PoCs.
