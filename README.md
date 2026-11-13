@@ -1,6 +1,8 @@
-# Awesome Awesome Best of Repo Lists
+<p align="center">
+  <img src="assets/hero.png" alt="Awesome Awesome Best of Repo Lists" width="960">
+</p>
 
-<img src="assets/hero.png" alt="Awesome Awesome Best of Repo Lists" width="300" align="right">
+# Awesome Awesome Best of Repo Lists
 
 
 <details>
@@ -3719,4 +3721,3 @@ See the [agent guide](docs/CATALOG.md) for the data fields and snapshot caveats.
 - Star counts indicate visibility, not necessarily quality.
 
 <sub>Aggregated and curated from GitHub search data · Snapshot: 2026-11-12</sub>
-
