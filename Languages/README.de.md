@@ -1,6 +1,8 @@
-# Awesome Awesome Best of Repo Lists
+<p align="center">
+  <img src="../assets/hero.png" alt="Awesome Awesome Best of Repo Lists" width="960">
+</p>
 
-![Awesome Awesome Best of Repo Lists](../assets/hero.png)
+# Awesome Awesome Best of Repo Lists
 
 
 <details>
@@ -3719,4 +3721,3 @@ Die [Anleitung für Agenten](../docs/CATALOG.md) erklärt die Datenfelder und de
 - Hohe Stars = Sichtbarkeit, nicht automatisch Qualität — Kuratierung erfolgt pro Kategorie.
 
 <sub>Aggregiert und kuratiert · Generiert aus GitHub-Suchdaten · Stand: 2026-11-12</sub>
-
